@@ -1,0 +1,674 @@
+[
+    {
+        "id": "430",
+        "casename": "Fever Case",
+        "pic": "/Cases/Fever.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #430",
+        "price": 0.85,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": ["xm_mockingbird","usp_pc_grn","ssg_memorial","p2000_sure_grip","mp9_nexus","mag_resupply","m4_choppa"],
+            "Restricted": ["zeus_tosai","p90_wave_breaker","nova_rising_sun","galil_control","deagle_serpent_strike"],
+            "Classified": ["ump_ko_factory","glock_shinobu","ak_searing_rage"],
+            "Covert": ["awp_printstream","famas_bad_trip"],
+            "Rare Special Item" : ["nomad_doppler","nomad_marble_fade","nomad_tiger_tooth","nomad_ultraviolet","nomad_damascus_steel","nomad_rust_coat","paracord_doppler","paracord_marble_fade","paracord_tiger_tooth","paracord_ultraviolet","paracord_damascus_steel","paracord_rust_coat","skeleton_doppler","skeleton_marble_fade","skeleton_tiger_tooth","skeleton_ultraviolet","skeleton_damascus_steel","skeleton_rust_coat","survival_doppler","survival_marble_fade","survival_tiger_tooth","survival_ultraviolet","survival_damascus_steel","survival_rust_coat"]
+        }
+    },
+    {
+        "id": "355",
+        "casename": "Recoil Case",
+        "pic": "/Cases/Recoil.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #355",
+        "price": 0.34,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": ["famas_meow_36","galil_destroyer","m4_poly_mag","mac_monkeyflage","negev_drop_me","ump_roadblock","glock_winterized"],
+            "Restricted": ["r8_crazy_8","m249_downtown","sg_dragon_tech","p90_vent_rush","dual_flora_carnivora"],
+            "Classified": ["ak_ice_coaled","p250_visions","sawed_kiss_love"],
+            "Covert": ["awp_chromatic_aberration","usp_printstream"],
+            "Rare Special Item" : ["giraffe","lt_commander","finish_line","caution","slingshot","constrictor","jade","scarlet_shamagh","yellow_banded","tiger_strike","needle_point","third_commando_company","unhinged","desert_shamagh","rezan_the_red","blood_pressure","smoke_out","big_game","queen_jaguar","marble_fade","field_agent","nocts","snow_leopard","black_tie"]
+        }
+    },
+    {
+        "id": "339",
+        "casename": "Dreams & Nightmares Case",
+        "pic": "/Cases/D&N.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #339",
+        "price": 1.91,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": ["fiveseven_scrawl","mac_ensnared","mag_foresight","mp5_necro_jr","p2000_lifted_spirits","scar_poultrygeist","sawed_spirit_board"],
+            "Restricted": ["bizon_space_cat", "g3sg1_dream_glade","m4s_night_terror","xm_zombie_offensive","usp_ticket_to_hell"],
+            "Classified": ["dual_melondrama", "famas_rapid_eye_movement","mp7_abyssal_apparition"],
+            "Covert": ["ak_nightwish", "mp9_starlight_protector"],
+            "Rare Special Item" : ["butterfly_lore","butterfly_autotronic","butterfly_bright_water","butterfly_freehand","butterfly_black_laminate","butterfly_gamma_doppler","shadow_daggers_lore","shadow_daggers_autotronic","shadow_daggers_bright_water","shadow_daggers_freehand","shadow_daggers_black_laminate","shadow_daggers_gamma_doppler","bowie_lore","bowie_autotronic","bowie_bright_water","bowie_freehand","bowie_black_laminate","bowie_gamma_doppler","huntsman_lore","huntsman_autotronic","huntsman_bright_water","huntsman_freehand","huntsman_black_laminate","huntsman_gamma_doppler","falchion_lore","falchion_autotronic","falchion_bright_water","falchion_freehand","falchion_black_laminate","falchion_gamma_doppler"]
+        }
+    },
+    {
+        "id": "376",
+        "casename": "Revolution Case",
+        "pic": "/Cases/Revolution.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #376",
+        "price": 0.64,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "393",
+        "casename": "Kilowatt Case",
+        "pic": "/Cases/Kilowatt.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #393",
+        "price": 0.5,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "307",
+        "casename": "Fracture Case",
+        "pic": "/Cases/Fracture.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #307",
+        "price": 0.42,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "412",
+        "casename": "Gallery Case",
+        "pic": "/Cases/Gallery.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #412",
+        "price": 0.95,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "315",
+        "casename": "Snakebite Case",
+        "pic": "/Cases/Snakebite.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #315",
+        "price": 0.71,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "179",
+        "casename": "Glove Case",
+        "pic": "/Cases/Glove.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #179",
+        "price": 16.52,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "18",
+        "casename": "Operation Breakout Weapon Case",
+        "pic": "/Cases/Breakout.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #18",
+        "price": 11.15,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "144",
+        "casename": "Gamma Case",
+        "pic": "/Cases/Gamma.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #144",
+        "price": 4.95,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "172",
+        "casename": "Gamma 2 Case",
+        "pic": "/Cases/Gamma2.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #172",
+        "price": 4.77,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "38",
+        "casename": "Chroma Case",
+        "pic": "/Cases/Chroma.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #38",
+        "price": 5.63,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "48",
+        "casename": "Chroma 2 Case",
+        "pic": "/Cases/Chroma2.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #48",
+        "price": 4.91,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "141",
+        "casename": "Chroma 3 Case",
+        "pic": "/Cases/Chroma3.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #141",
+        "price": 4.62,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "207",
+        "casename": "Spectrum Case",
+        "pic": "/Cases/Spectrum.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #207",
+        "price": 5.18,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "220",
+        "casename": "Spectrum 2 Case",
+        "pic": "/Cases/Spectrum2.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #220",
+        "price": 4.09,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "259",
+        "casename": "Danger Zone Case",
+        "pic": "/Cases/Danger_Zone.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #259",
+        "price": 1.63,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "321",
+        "casename": "Operation Riptide Case",
+        "pic": "/Cases/Riptide.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #321",
+        "price": 19.67,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "274",
+        "casename": "Prisma Case",
+        "pic": "/Cases/Prisma.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #274",
+        "price": 1.63,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "303",
+        "casename": "Prisma 2 Case",
+        "pic": "/Cases/Prisma2.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #303",
+        "price": 1.67,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "208",
+        "casename": "Operation Hydra Case",
+        "pic": "/Cases/Hydra.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #208",
+        "price": 46.58,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "111",
+        "casename": "Revolver Case",
+        "pic": "/Cases/Revolver.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #111",
+        "price": 3.77,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "11",
+        "casename": "Operation Phoenix Weapon Case",
+        "pic": "/Cases/Phoenix.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #11",
+        "price": 5.02,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "244",
+        "casename": "Horizon Case",
+        "pic": "/Cases/Horizon.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #244",
+        "price": 1.98,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "308",
+        "casename": "Operation Broken Fang Case",
+        "pic": "/Cases/Broken_Fang.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #308",
+        "price": 10.31,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "238",
+        "casename": "Clutch Case",
+        "pic": "/Cases/Clutch.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #238",
+        "price": 0.99,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "277",
+        "casename": "Shattered Web Case",
+        "pic": "/Cases/Shattered_Web.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #277",
+        "price": 8.19,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "293",
+        "casename": "CS20 Case",
+        "pic": "/Cases/CS20.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #293",
+        "price": 1.41,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "112",
+        "casename": "Operation Wildfire Case",
+        "pic": "/Cases/Wildfire.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #112",
+        "price": 3.99,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "29",
+        "casename": "Operation Vanguard Weapon Case",
+        "pic": "/Cases/Vanguard.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #29",
+        "price": 5.45,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "80",
+        "casename": "Shadow Case",
+        "pic": "/Cases/Shadow.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #80",
+        "price": 1.85,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "50",
+        "casename": "Falchion Case",
+        "pic": "/Cases/Falchion.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #50",
+        "price": 1.87,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "17",
+        "casename": "Huntsman Weapon Case",
+        "pic": "/Cases/Huntsman.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #17",
+        "price": 8.98,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "7",
+        "casename": "Winter Offensive Weapon Case",
+        "pic": "/Cases/Winter_Offensive.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #7",
+        "price": 8.34,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "3",
+        "casename": "Operation Bravo Case",
+        "pic": "/Cases/Bravo.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #3",
+        "price": 45.84,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "1",
+        "casename": "CS:GO Weapon Case",
+        "pic": "/Cases/CSGO.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #1",
+        "price": 93.67,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "4",
+        "casename": "CS:GO Weapon Case 2",
+        "pic": "/Cases/CSGO2.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #4",
+        "price": 12.62,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "10",
+        "casename": "CS:GO Weapon Case 3",
+        "pic": "/Cases/CSGO3.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #10",
+        "price": 10.97,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "2",
+        "casename": "eSports 2013 Case",
+        "pic": "/Cases/E2013.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #2",
+        "price": 68.22,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "5",
+        "casename": "eSports 2013 Winter Case",
+        "pic": "/Cases/EW2013.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #5",
+        "price": 13.59,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    },
+    {
+        "id": "19",
+        "casename": "eSports 2014 Summer Case",
+        "pic": "/Cases/E2014.webp",
+        "desc": "Items in this container can be rented.\nContainer Series #19",
+        "price": 14.45,
+        "type": "Case",
+        "rarity": "Base Grade Weapon Case",
+        "pools": {
+            "Mil-spec": [],
+            "Restricted": [],
+            "Classified": [],
+            "Covert": [],
+            "Rare Special Item" : []
+        }
+    }
+]

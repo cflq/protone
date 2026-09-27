@@ -1,0 +1,79 @@
+/*
+#00377E Light Blue
+#002D67
+#002657 Mid Blue
+#001E45
+#00193B Dark Blue
+#00132D
+#19bc00 Green
+#087400 Dark Green
+#065200
+#ff2b2b Light Red
+#b90000 Red
+#800000 Dark Red
+
+rgba(255, 255, 255, 0.3) grey border
+*/
+
+/* THE CASE CARD */
+.card{
+    margin: 25px 0;
+    max-width: 330px;
+    max-height: 330px;
+    background-color: #001E45;
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 25px;
+}
+/* CASE IMAGE */
+.caseImage{
+    width: 150px;
+    border-radius: 15px;
+    border-color:white;
+    border: 1px;
+}
+/* CASE NAME */
+.caseName{
+    padding: 10px 3px;
+}
+/* CASE DESCRIPTION */
+.caseDesc{
+    padding-left: 3px;
+}
+/* BUTTONS */
+.caseButt{
+    padding: 8px 15px;
+    color:white;
+    background-color: #00193B;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 7px;
+    user-select: none;
+    white-space: nowrap;
+    transition: all 0.3s ease-in;
+    transition: all 0.2s ease-out;
+    cursor: pointer;
+}
+/* BOTH BUTTONS */
+.caseButt:hover{
+    background-color: #19bc00;
+    
+}
+.caseButt:active{
+    background-color: #087400;
+}
+/* CONTENT BUTTON ONLY */
+.caseCtt:hover{ 
+    background-color: #005bb6 ;
+    
+}
+.caseCtt:active{
+    background-color: #003376;
+}
+/* BOTH BUTTONS IN SAME DIV */
+.buttons{
+    padding-top: 20px;
+    display:flex;
+    gap: 50px;
+    justify-content: space-between;
+    align-items: center;
+}

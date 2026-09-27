@@ -1,0 +1,178 @@
+/*
+#00377E Light Blue
+#002D67
+#002657 Mid Blue
+#001E45
+#00193B Dark Blue
+#00132D
+#19bc00 Green
+#087400 Dark Green
+#065200
+#ff2b2b Light Red
+#b90000 Red
+#800000 Dark Red
+*/
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: white;
+  background-color: #00132D;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #00B4D8;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #0077B6;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+#Title {
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+#secTitle {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+#brdr {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+#antiSelect {
+  user-select: none;
+}
+
+input {
+  border-radius: 4px;
+  background-color: #00193B;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  margin-left: 15px;
+  max-width: 45px;
+}
+
+.rollOverlay {
+  position: fixed;
+  inset: 0;
+  z-index: 999999;
+
+  background:
+    radial-gradient(120% 120% at 50% 20%,
+      rgba(0, 55, 126, 0.20) 0%,
+      rgba(0, 38, 87, 0.20) 35%,
+      rgba(0, 19, 45, 0.85) 100%),
+    rgba(0, 0, 0, 0.65);
+
+  backdrop-filter: blur(4px);
+  display: grid;
+  place-items: center;
+}
+
+/* Main roll modal */
+.rollModal {
+  width: min(720px, 92vw);
+  padding: 16px;
+  border-radius: 16px;
+
+  background:
+    linear-gradient(180deg,
+      rgba(0, 55, 126, 0.18) 0%,
+      rgba(0, 38, 87, 0.14) 45%,
+      rgba(0, 19, 45, 0.35) 100%),
+    rgba(15, 15, 18, 0.95);
+
+  border: 1px solid rgba(255, 255, 255, 0.30);
+  /* grey border */
+  box-shadow:
+    0 20px 50px rgba(0, 0, 0, 0.55),
+    inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+/* Confirm modal */
+.confirmModal {
+  width: min(380px, 90vw);
+  padding: 18px;
+  text-align: center;
+  border-radius: 16px;
+
+  background:
+    linear-gradient(180deg,
+      rgba(0, 55, 126, 0.20) 0%,
+      rgba(0, 38, 87, 0.16) 50%,
+      rgba(0, 19, 45, 0.40) 100%),
+    rgba(15, 15, 18, 0.95);
+
+  border: 1px solid rgba(255, 255, 255, 0.30);
+  box-shadow:
+    0 18px 40px rgba(0, 0, 0, 0.55),
+    inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+.confirmCasePic {
+  width: 120px;
+  height: auto;
+  margin: 10px 0;
+  filter: drop-shadow(0 8px 14px rgba(0, 0, 0, 0.45));
+}
+
+.confirmActions {
+  display: flex;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+/* Buttons */
+.cancelBtn,
+.openBtn,
+.closeRoll {
+  flex: 1;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+/* Neutral cancel */
+.cancelBtn {
+  background: rgba(255, 255, 255, 0.12);
+  color: white;
+}
+
+.cancelBtn:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+
+/* Open — keeping your gold as-is */
+.openBtn {
+  background: #0061df !important;
+  color: black;
+}
+
+.openBtn:hover {
+  filter: brightness(1.05);
+}

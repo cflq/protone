@@ -1,0 +1,180 @@
+/*
+#00377E Light Blue
+#002D67
+#002657 Mid Blue
+#001E45
+#00193B Dark Blue
+#00132D
+#19bc00 Green
+#087400 Dark Green
+#065200
+#ff2b2b Light Red
+#b90000 Red
+#800000 Dark Red
+*/
+
+/* POPUP BUY WINDOW */
+
+.pbuy {
+    min-width: 75%;
+    max-width: 95%;
+    max-height: 90%;
+    background-color: #00193B;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 15px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow-y: auto;
+
+    animation: popIn 0.25s ease forwards;
+}
+
+@keyframes popIn {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -50%) scale(0.95);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+    }
+}
+
+.pbuyback {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+
+    background: rgba(0, 0, 0, 0.6);
+
+    align-items: center;
+    justify-content: center;
+
+    pointer-events: auto;
+}
+
+
+/* BUY BUTTON */
+
+.buybtn {
+    justify-content: center;
+    max-width: 88px;
+    margin-left: auto;
+    margin-top: auto;
+    background-color: #087400;
+    text-align: center;
+    display: flex;
+    border-radius: 7px;
+    padding: 7px 25px;
+    transition: all 0.1s ease-in;
+    transition: all 0.2s ease-out;
+    cursor: pointer;
+}
+
+.buybtn:hover {
+    background-color: #19bc00;
+}
+
+.buybtn:active {
+    background-color: #065200;
+}
+
+/* CLOSE (X) BUTTON */
+
+.closebtn {
+    position: absolute;
+    right: 25px;
+    top: 20px;
+    padding: 4px 10px;
+
+    border-radius: 7px;
+    background-color: #b90000;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    transition: all 0.1s ease-in;
+    transition: all 0.2s ease-out;
+
+    cursor: pointer;
+}
+
+.closebtn:hover {
+    background-color: #ff2b2b;
+}
+
+.closebtn:active {
+    background-color: #800000;
+}
+
+/* TITLE OF THE WINDOW */
+.pTitle {
+    margin: 30px 0 30px 30px;
+}
+
+/* CASE PICTURE INSIDE THAT DIV */
+.casebuyDiv {
+    max-block-size: 100px;
+    background-color: #00132D;
+    border-radius: 15px;
+    align-items: center;
+    padding: 45px 30px;
+}
+
+.casebuyPic {
+    max-width: 130px;
+}
+
+/* CASE NAME AND DESC */
+.casebuyName {
+    margin-top: 10px;
+}
+
+.buyInfo {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    margin: 0px 20px 0px 0px;
+
+}
+
+
+
+/* THE UPPER PART */
+.upperPart {
+    margin: 50px;
+    max-height: 250px;
+    align-self: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 0 45px 0 45px;
+    overflow-y: auto;
+}
+
+.buyInput {
+    text-align: end;
+    align-content: center;
+    margin-right: 20px;
+}
+
+.inputDiv {
+    margin-bottom: 12px;
+    text-align: start;
+}
+
+.priceValue {
+    color: white;
+}
+
+/* LOWER PART */
+
+.lowerPart {
+    padding: 20px;
+    background-color: #00132D;
+    margin: 50px;
+    height: 150px;
+    border-radius: 7px;
+}

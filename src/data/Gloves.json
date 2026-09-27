@@ -1,0 +1,1010 @@
+{
+    "black_tie": {
+        "name": "★ Driver Gloves | Black Tie",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/black_tie.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1747.17,
+            "MW": 477.95,
+            "FT": 170.06,
+            "WW": 143.72,
+            "BS": 125.01
+        }
+    },
+    "snow_leopard": {
+        "name": "★ Driver Gloves | Snow Leopard",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/snow_leopard.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2565.89,
+            "MW": 734.42,
+            "FT": 344.54,
+            "WW": 304.2,
+            "BS": 255.88
+        }
+    },
+    "nocts": {
+        "name": "★ Sport Gloves | Nocts",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/nocts.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 3273.08,
+            "MW": 1449.33,
+            "FT": 710.37,
+            "WW": 639.24,
+            "BS": 476.54
+        }
+    },
+    "field_agent": {
+        "name": "★ Specialist Gloves | Field Agent",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/field_agent.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1295.5,
+            "MW": 430.14,
+            "FT": 164.95,
+            "WW": 137.18,
+            "BS": 109.36
+        }
+    },
+    "marble_fade": {
+        "name": "★ Specialist Gloves | Marble Fade",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2109.67,
+            "MW": 597.16,
+            "FT": 174.82,
+            "WW": 155.15,
+            "BS": 137.69
+        }
+    },
+    "queen_jaguar": {
+        "name": "★ Driver Gloves | Queen Jaguar",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/queen_jaguar.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 520.66,
+            "MW": 145.19,
+            "FT": 75.09,
+            "WW": 68,
+            "BS": 62.16
+        }
+    },
+    "big_game": {
+        "name": "★ Sport Gloves | Big Game",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/big_game.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1023.5,
+            "MW": 343.57,
+            "FT": 204.61,
+            "WW": 179.16,
+            "BS": 158.01
+        }
+    },
+    "smoke_out": {
+        "name": "★ Moto Gloves | Smoke Out",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/smoke_out.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 869.57,
+            "MW": 265.52,
+            "FT": 130.22,
+            "WW": 114.66,
+            "BS": 99.78
+        }
+    },
+    "blood_pressure": {
+        "name": "★ Moto Gloves | Blood Pressure",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/blood_pressure.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 889.9,
+            "MW": 275.92,
+            "FT": 145.79,
+            "WW": 134.15,
+            "BS": 97.47
+        }
+    },
+    "rezan_the_red": {
+        "name": "★ Driver Gloves | Rezan the Red",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/rezan_the_red.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 841.88,
+            "MW": 290.52,
+            "FT": 98.33,
+            "WW": 92.27,
+            "BS": 79.1
+        }
+    },
+    "desert_shamagh": {
+        "name": "★ Hand Wraps | Desert Shamagh",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/desert_shamagh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2066.95,
+            "MW": 108.71,
+            "FT": 55.46,
+            "WW": 55.23,
+            "BS": 54.53
+        }
+    },
+    "unhinged": {
+        "name": "★ Broken Fang Gloves | Unhinged",
+        "finish": "Broken Fang Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/unhinged.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 318.32,
+            "MW": 102.37,
+            "FT": 64.78,
+            "WW": 63.26,
+            "BS": 59.16
+        }
+    },
+    "third_commando_company": {
+        "name": "★ Moto Gloves | 3rd Commando Company",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/third_commando_company.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 308.82,
+            "MW": 111.17,
+            "FT": 56.95,
+            "WW": 56.2,
+            "BS": 53.66
+        }
+    },
+    "needle_point": {
+        "name": "★ Broken Fang Gloves | Needle Point",
+        "finish": "Broken Fang Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/needle_point.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 263.56,
+            "MW": 93.65,
+            "FT": 62.58,
+            "WW": 61.1,
+            "BS": 58.9
+        }
+    },
+    "tiger_strike": {
+        "name": "★ Specialist Gloves | Tiger Strike",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/tiger_strike.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1666.19,
+            "MW": 549.84,
+            "FT": 247.73,
+            "WW": 190.05,
+            "BS": 127.16
+        }
+    },
+    "yellow_banded": {
+        "name": "★ Broken Fang Gloves | Yellow-banded",
+        "finish": "Broken Fang Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/yellow_banded.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 389.68,
+            "MW": 109.7,
+            "FT": 63.3,
+            "WW": 64.28,
+            "BS": 58.76
+        }
+    },
+    "scarlet_shamagh": {
+        "name": "★ Sport Gloves | Scarlet Shamagh",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/scarlet_shamagh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1394.44,
+            "MW": 531.07,
+            "FT": 263.92,
+            "WW": 243,
+            "BS": 203.59
+        }
+    },
+    "jade": {
+        "name": "★ Broken Fang Gloves | Jade",
+        "finish": "Broken Fang Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/jade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 669,
+            "MW": 150.55,
+            "FT": 97.49,
+            "WW": 93.63,
+            "BS": 89.2
+        }
+    },
+    "constrictor": {
+        "name": "★ Hand Wraps | Constrictor",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/constrictor.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 330,
+            "MW": 114.29,
+            "FT": 69.15,
+            "WW": 64.75,
+            "BS": 59.24
+        }
+    },
+    "slingshot": {
+        "name": "★ Sport Gloves | Slingshot",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/slingshot.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 4207.03,
+            "MW": 1498.95,
+            "FT": 551,
+            "WW": 416,
+            "BS": 252.98
+        }
+    },
+    "caution": {
+        "name": "★ Hand Wraps | CAUTION!",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/caution.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 939.49,
+            "MW": 312.36,
+            "FT": 147.77,
+            "WW": 134.03,
+            "BS": 128.06
+        }
+    },
+    "finish_line": {
+        "name": "★ Moto Gloves | Finish Line",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/finish_line.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 727.47,
+            "MW": 239.67,
+            "FT": 113.07,
+            "WW": 97.39,
+            "BS": 83.19
+        }
+    },
+    "lt_commander": {
+        "name": "★ Specialist Gloves | Lt. Commander",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/lt_commander.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 958.08,
+            "MW": 283.75,
+            "FT": 131.63,
+            "WW": 116.06,
+            "BS": 101.63
+        }
+    },
+    "giraffe": {
+        "name": "★ Hand Wraps | Giraffe",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/giraffe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 352.11,
+            "MW": 110.85,
+            "FT": 64.8,
+            "WW": 61.16,
+            "BS": 57.88
+        }
+    },
+    "vice": {
+        "name": "★ Sport Gloves | Vice",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/vice.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 9599.95,
+            "MW": 2294.58,
+            "FT": 639.79,
+            "WW": 528.6,
+            "BS": 365.17
+        }
+    },
+    "king_snake": {
+        "name": "★ Driver Gloves | King Snake",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/king_snake.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 3866.84,
+            "MW": 705.89,
+            "FT": 198,
+            "WW": 167.99,
+            "BS": 145.06
+        }
+    },
+    "overtake": {
+        "name": "★ Driver Gloves | Overtake",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/overtake.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 446.19,
+            "MW": 152.83,
+            "FT": 71.73,
+            "WW": 65.62,
+            "BS": 63.13
+        }
+    },
+    "crimson_web": {
+        "name": "★ Specialist Gloves | Crimson Web",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1682.13,
+            "MW": 469.54,
+            "FT": 170.28,
+            "WW": 151.33,
+            "BS": 126.58
+        }
+    },
+    "imperial_plaid": {
+        "name": "★ Driver Gloves | Imperial Plaid",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/imperial_plaid.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1366.61,
+            "MW": 690.88,
+            "FT": 254.56,
+            "WW": 221.24,
+            "BS": 187.87
+        }
+    },
+    "bronze_morph": {
+        "name": "★ Sport Gloves | Bronze Morph",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/bronze_morph.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 711.14,
+            "MW": 242.84,
+            "FT": 124.68,
+            "WW": 111.98,
+            "BS": 106.63
+        }
+    },
+    "case_hardened": {
+        "name": "★ Hydra Gloves | Case Hardened",
+        "finish": "Hydra Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 456.42,
+            "MW": 111.19,
+            "FT": 71.39,
+            "WW": 72.14,
+            "BS": 70.63
+        }
+    },
+    "fade": {
+        "name": "★ Specialist Gloves | Fade",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2423.41,
+            "MW": 732.43,
+            "FT": 247.26,
+            "WW": 199.16,
+            "BS": 147.08
+        }
+    },
+    "polygon": {
+        "name": "★ Moto Gloves | Polygon",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/polygon.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 700,
+            "MW": 264.24,
+            "FT": 136.55,
+            "WW": 123.97,
+            "BS": 105.1
+        }
+    },
+    "outprint": {
+        "name": "★ Hand Wraps | Overprint",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/outprint.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 592.28,
+            "MW": 253.98,
+            "FT": 124.5,
+            "WW": 118.55,
+            "BS": 90.18
+        }
+    },
+    "transport": {
+        "name": "★ Moto Gloves | Transport",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/transport.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 411.29,
+            "MW": 114.64,
+            "FT": 51.98,
+            "WW": 51.64,
+            "BS": 49.5
+        }
+    },
+    "omega": {
+        "name": "★ Sport Gloves | Omega",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/omega.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2420.21,
+            "MW": 872.01,
+            "FT": 298,
+            "WW": 243.24,
+            "BS": 183.95
+        }
+    },
+    "duct_tape": {
+        "name": "★ Hand Wraps | Duct Tape",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/duct_tape.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 441.24,
+            "MW": 108.9,
+            "FT": 58.21,
+            "WW": 57.83,
+            "BS": 56.3
+        }
+    },
+    "amphibious": {
+        "name": "★ Sport Gloves | Amphibious",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/amphibious.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 3630.43,
+            "MW": 1016.52,
+            "FT": 429.97,
+            "WW": 373.76,
+            "BS": 289.39
+        }
+    },
+    "rattler": {
+        "name": "★ Hydra Gloves | Rattler",
+        "finish": "Hydra Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/rattler.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 245.8,
+            "MW": 57.42,
+            "FT": 40.33,
+            "WW": 41.4,
+            "BS": 40.21
+        }
+    },
+    "emerald": {
+        "name": "★ Hydra Gloves | Emerald",
+        "finish": "Hydra Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/emerald.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 234.77,
+            "MW": 76.83,
+            "FT": 44.46,
+            "WW": 46.89,
+            "BS": 44.98
+        }
+    },
+    "mogul": {
+        "name": "★ Specialist Gloves | Mogul",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/mogul.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 779.95,
+            "MW": 254.24,
+            "FT": 122.8,
+            "WW": 114.54,
+            "BS": 104.15
+        }
+    },
+    "mangrove": {
+        "name": "★ Hydra Gloves | Mangrove",
+        "finish": "Hydra Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/mangrove.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 207.38,
+            "MW": 57.69,
+            "FT": 40.27,
+            "WW": 40.74,
+            "BS": 40.33
+        }
+    },
+    "pow": {
+        "name": "★ Moto Gloves | POW!",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/pow.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 921.14,
+            "MW": 348.81,
+            "FT": 116.66,
+            "WW": 94.88,
+            "BS": 67.73
+        }
+    },
+    "turtle": {
+        "name": "★ Moto Gloves | Turtle",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/turtle.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 698.72,
+            "MW": 247.44,
+            "FT": 99.98,
+            "WW": 86.49,
+            "BS": 71.48
+        }
+    },
+    "buckshot": {
+        "name": "★ Specialist Gloves | Buckshot",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/buckshot.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 374.44,
+            "MW": 119.84,
+            "FT": 63.98,
+            "WW": 61.13,
+            "BS": 57.92
+        }
+    },
+    "racing_green": {
+        "name": "★ Driver Gloves | Racing Green",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/racing_green.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 356.38,
+            "MW": 136.16,
+            "FT": 41.64,
+            "WW": 41.09,
+            "BS": 40.4
+        }
+    },
+    "arboreal": {
+        "name": "★ Hand Wraps | Arboreal",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/arboreal.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 270.89,
+            "MW": 115.34,
+            "FT": 65.89,
+            "WW": 60.88,
+            "BS": 57.78
+        }
+    },
+    "cobalt_skulls": {
+        "name": "★ Hand Wraps | Cobalt Skulls",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/cobalt_skulls.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1549.98,
+            "MW": 593.54,
+            "FT": 267.9,
+            "WW": 228.79,
+            "BS": 199.89
+        }
+    },
+    "badlands": {
+        "name": "★ Hand Wraps | Badlands",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/badlands.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1339.09,
+            "MW": 1014.9,
+            "FT": 1047,
+            "WW": 238.15,
+            "BS": 151.94
+        }
+    },
+    "guerrilla": {
+        "name": "★ Bloodhound Gloves | Guerrilla",
+        "finish": "Bloodhound Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/guerrilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 540,
+            "MW": 328.67,
+            "FT": 312.23,
+            "WW": 106.28,
+            "BS": 89.66
+        }
+    },
+    "forest_ddpat": {
+        "name": "★ Specialist Gloves | Forest DDPAT",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1138.75,
+            "MW": 612.98,
+            "FT": 539.53,
+            "WW": 179.6,
+            "BS": 135.94
+        }
+    },
+    "leather": {
+        "name": "★ Hand Wraps | Leather",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/leather.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1964.49,
+            "MW": 1555.09,
+            "FT": 1488.56,
+            "WW": 351.98,
+            "BS": 247.73
+        }
+    },
+    "foundation": {
+        "name": "★ Specialist Gloves | Foundation",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/foundation.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 3204.74,
+            "MW": 2388.08,
+            "FT": 2264.77,
+            "WW": 485.77,
+            "BS": 242.34
+        }
+    },
+    "convoy": {
+        "name": "★ Driver Gloves | Convoy",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/convoy.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 827.18,
+            "MW": 570.21,
+            "FT": 529.85,
+            "WW": 136.54,
+            "BS": 93.63
+        }
+    },
+    "boom": {
+        "name": "★ Moto Gloves | Boom!",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/boom.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1854.5,
+            "MW": 1053.26,
+            "FT": 925,
+            "WW": 256.2,
+            "BS": 122.3
+        }
+    },
+    "snakebite": {
+        "name": "★ Bloodhound Gloves | Snakebite",
+        "finish": "Bloodhound Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/snakebite.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 683.86,
+            "MW": 334.15,
+            "FT": 295,
+            "WW": 98.09,
+            "BS": 96.93
+        }
+    },
+    "bronzed": {
+        "name": "★ Bloodhound Gloves | Bronzed",
+        "finish": "Bloodhound Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/bronzed.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 978.77,
+            "MW": 352.94,
+            "FT": 299,
+            "WW": 103.29,
+            "BS": 86.95
+        }
+    },
+    "charred": {
+        "name": "★ Bloodhound Gloves | Charred",
+        "finish": "Bloodhound Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/charred.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 841.66,
+            "MW": 505.2,
+            "FT": 476.78,
+            "WW": 149.13,
+            "BS": 121.17
+        }
+    },
+    "pandoras_box": {
+        "name": "★ Sport Gloves | Pandora's Box",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/pandoras_box.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 36519.77,
+            "MW": 10158.08,
+            "FT": 6664.07,
+            "WW": 5196.43,
+            "BS": 2979.99
+        }
+    },
+    "arid": {
+        "name": "★ Sport Gloves | Arid",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/arid.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 5368.83,
+            "MW": 3280.42,
+            "FT": 3021.07,
+            "WW": 803.34,
+            "BS": 415.3
+        }
+    },
+    "superconductor": {
+        "name": "★ Sport Gloves | Superconductor",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/superconductor.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 12812.92,
+            "MW": 5915.9,
+            "FT": 4483.35,
+            "WW": 2375,
+            "BS": 1184.38
+        }
+    },
+    "hedge_maze": {
+        "name": "★ Sport Gloves | Hedge Maze",
+        "finish": "Sport Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/hedge_maze.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 28530.68,
+            "MW": 12083.91,
+            "FT": 7698.83,
+            "WW": 4976.89,
+            "BS": 3100
+        }
+    },
+    "crimson_kimono": {
+        "name": "★ Specialist Gloves | Crimson Kimono",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/crimson_kimono.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 11673.43,
+            "MW": 4750,
+            "FT": 3570.93,
+            "WW": 2334.87,
+            "BS": 1619.62
+        }
+    },
+    "emerald_web": {
+        "name": "★ Specialist Gloves | Emerald Web",
+        "finish": "Specialist Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/emerald_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 7632.06,
+            "MW": 4276.46,
+            "FT": 3900,
+            "WW": 1080,
+            "BS": 560.34
+        }
+    },
+    "diamondback": {
+        "name": "★ Driver Gloves | Diamondback",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/diamondback.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2111.27,
+            "MW": 1561.31,
+            "FT": 1527.04,
+            "WW": 246.85,
+            "BS": 149.41
+        }
+    },
+    "crimson_weave": {
+        "name": "★ Driver Gloves | Crimson Weave",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/crimson_weave.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 5694.51,
+            "MW": 3975.53,
+            "FT": 3646.62,
+            "WW": 789.99,
+            "BS": 412.28
+        }
+    },
+    "lunar_weave": {
+        "name": "★ Driver Gloves | Lunar Weave",
+        "finish": "Driver Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/lunar_weave.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2249.16,
+            "MW": 1980.43,
+            "FT": 1882.73,
+            "WW": 384.33,
+            "BS": 216.26
+        }
+    },
+    "cool_mint": {
+        "name": "★ Moto Gloves | Cool Mint",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/cool_mint.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 3416.74,
+            "MW": 2478.92,
+            "FT": 2420.1,
+            "WW": 569.13,
+            "BS": 243.8
+        }
+    },
+    "spearmint": {
+        "name": "★ Moto Gloves | Spearmint",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/spearmint.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 10199.71,
+            "MW": 5629.3,
+            "FT": 4703.91,
+            "WW": 1725.3,
+            "BS": 531.75
+        }
+    },
+    "eclipse": {
+        "name": "★ Moto Gloves | Eclipse",
+        "finish": "Moto Gloves",
+        "type": "Glove",
+        "pic": "/Gloves/eclipse.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1274.21,
+            "MW": 826.81,
+            "FT": 756.47,
+            "WW": 196.24,
+            "BS": 129.63
+        }
+    },
+    "slaughter": {
+        "name": "★ Hand Wraps | Slaughter",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2907.56,
+            "MW": 1829.57,
+            "FT": 1759.07,
+            "WW": 413.58,
+            "BS": 261.99
+        }
+    },
+    "spruce_ddpat": {
+        "name": "★ Hand Wraps | Spruce DDPAT",
+        "finish": "Hand Wraps",
+        "type": "Glove",
+        "pic": "/Gloves/spruce_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1169.76,
+            "MW": 893.93,
+            "FT": 833.35,
+            "WW": 209.02,
+            "BS": 130.84
+        }
+    }
+}

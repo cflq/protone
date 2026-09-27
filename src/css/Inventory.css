@@ -1,0 +1,154 @@
+/*
+#00377E Light Blue
+#002D67
+#002657 Mid Blue
+#001E45
+#00193B Dark Blue
+#00132D
+#19bc00 Green
+#087400 Dark Green
+#065200
+#ff2b2b Light Red
+#b90000 Red
+#800000 Dark Red
+
+rgba(255, 255, 255, 0.3) grey border
+*/
+
+.inv-display {
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    padding: 10px 10px;
+    justify-content: center;
+}
+
+.inv {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 30px;
+    width: 915px;
+    height: 700px;
+    padding: 10px;
+
+    background-color: #00193B;
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.inv-content {
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    overflow-y: auto;
+
+    width: 880px;
+    height: 650px;
+    background-color: #00132D;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 5px;
+}
+
+.inv-item {
+    margin: 10px 5px;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    padding: 5px;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    user-select: none;
+}
+
+.inv-item:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.inv-displayed-item {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 400px;
+    height: 600px;
+    background-color: #00132D;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    padding: 20px 5px;
+    text-align: center;
+}
+
+.item-name {
+    font-size: small;
+}
+
+.itemImage {
+    max-width: 130px;
+}
+
+.selectedItem-pic {
+    max-width: 250px;
+    align-self: center;
+}
+
+.sellBtn {
+    color: white;
+    background-color: #087400;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 7px;
+    user-select: none;
+    white-space: nowrap;
+    transition: all 0.3s ease-in;
+    transition: all 0.2s ease-out;
+    cursor: pointer;
+
+    padding: 8px 15px;
+}
+
+.sellBtn:hover {
+    background-color: #0db102;
+}
+
+.sellBtn:active {
+    background-color: #065200;
+}
+
+.isCase {
+    color: white;
+    background-color: #00377E;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 7px;
+    user-select: none;
+    white-space: nowrap;
+    transition: all 0.3s ease-in;
+    transition: all 0.2s ease-out;
+    cursor: pointer;
+
+    padding: 8px 15px;
+}
+
+.isCase:hover {
+    background-color: #00377E;
+}
+
+.isCase:active {
+    background-color: #00214b;
+}
+
+.isNotCase {
+    display: none;
+}
+
+.displayed-item-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    margin-top: auto;
+}

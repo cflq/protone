@@ -1,0 +1,6534 @@
+{
+    "karambit_fade": {
+        "name": "★ Karambit | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/karambit_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2253.89,
+            "MW": 2129.21
+        }
+    },
+    "karambit_slaughter": {
+        "name": "★ Karambit | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/karambit_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1220,
+            "MW": 969.03,
+            "FT": 914.73
+        }
+    },
+    "karambit_case_hardened": {
+        "name": "★ Karambit | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/karambit_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1899.87,
+            "MW": 860.64,
+            "FT": 697.87,
+            "WW": 658.92,
+            "BS": 624.23
+        }
+    },
+    "karambit_crimson_web": {
+        "name": "★ Karambit | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/karambit_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 7107.67,
+            "MW": 968.12,
+            "FT": 620,
+            "WW": 592.54,
+            "BS": 555.25
+        }
+    },
+    "karambit_blue_steel": {
+        "name": "★ Karambit | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/karambit_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1121.18,
+            "MW": 865,
+            "FT": 785,
+            "WW": 739,
+            "BS": 693.3
+        }
+    },
+    "karambit_stained": {
+        "name": "★ Karambit | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/karambit_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 786.89,
+            "MW": 599.17,
+            "FT": 540,
+            "WW": 509.5,
+            "BS": 500.02
+        }
+    },
+    "karambit_night": {
+        "name": "★ Karambit | Night",
+        "finish": "Night",
+        "type": "Knife",
+        "pic": "/Knives/karambit_night.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1894.67,
+            "MW": 638.33,
+            "FT": 500.95,
+            "WW": 465.73,
+            "BS": 459.34
+        }
+    },
+    "karambit_scorched": {
+        "name": "★ Karambit | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/karambit_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 810.53,
+            "MW": 470.41,
+            "FT": 421.51,
+            "WW": 419.99,
+            "BS": 394.44
+        }
+    },
+    "karambit_urban_masked": {
+        "name": "★ Karambit | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/karambit_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 770,
+            "MW": 467.12,
+            "FT": 400,
+            "WW": 396.73,
+            "BS": 400
+        }
+    },
+    "karambit_boreal_forest": {
+        "name": "★ Karambit | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/karambit_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1281.33,
+            "MW": 438.5,
+            "FT": 395,
+            "WW": 388,
+            "BS": 363.72
+        }
+    },
+    "karambit_forest_ddpat": {
+        "name": "★ Karambit | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/karambit_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 768.73,
+            "MW": 427.11,
+            "FT": 392,
+            "WW": 391.88,
+            "BS": 369.27
+        }
+    },
+    "karambit_safari_mesh": {
+        "name": "★ Karambit | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/karambit_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 899,
+            "MW": 399.01,
+            "FT": 366.17,
+            "WW": 364.07,
+            "BS": 369.69
+        }
+    },
+    "karambit_vanilla": {
+        "name": "★ Karambit | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/karambit_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1230,
+            "MW": 1230,
+            "FT": 1230,
+            "WW": 1230,
+            "BS": 1230
+        }
+    },
+    "m9_bayonet_fade": {
+        "name": "★ M9 Bayonet | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1140,
+            "MW": 1198.29
+        }
+    },
+    "m9_bayonet_slaughter": {
+        "name": "★ M9 Bayonet | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 925,
+            "MW": 744.71,
+            "FT": 693.35
+        }
+    },
+    "m9_bayonet_case_hardened": {
+        "name": "★ M9 Bayonet | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1089.35,
+            "MW": 566.4,
+            "FT": 489.89,
+            "WW": 475.33,
+            "BS": 450.29
+        }
+    },
+    "m9_bayonet_crimson_web": {
+        "name": "★ M9 Bayonet | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 4595.76,
+            "MW": 853.08,
+            "FT": 466.52,
+            "WW": 420.65,
+            "BS": 417.45
+        }
+    },
+    "m9_bayonet_blue_steel": {
+        "name": "★ M9 Bayonet | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 783.04,
+            "MW": 583.15,
+            "FT": 528.94,
+            "WW": 515.05,
+            "BS": 519
+        }
+    },
+    "m9_bayonet_stained": {
+        "name": "★ M9 Bayonet | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 534.74,
+            "MW": 440,
+            "FT": 420,
+            "WW": 396.22,
+            "BS": 379.87
+        }
+    },
+    "m9_bayonet_night": {
+        "name": "★ M9 Bayonet | Night",
+        "finish": "Night",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_night.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 941.95,
+            "MW": 439.78,
+            "FT": 359.3,
+            "WW": 337.6,
+            "BS": 340.19
+        }
+    },
+    "m9_bayonet_scorched": {
+        "name": "★ M9 Bayonet | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 925.41,
+            "MW": 335.57,
+            "FT": 296.17,
+            "WW": 297.43,
+            "BS": 313.93
+        }
+    },
+    "m9_bayonet_urban_masked": {
+        "name": "★ M9 Bayonet | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1400.61,
+            "MW": 355.93,
+            "FT": 306.29,
+            "WW": 305.12,
+            "BS": 332.95
+        }
+    },
+    "m9_bayonet_boreal_forest": {
+        "name": "★ M9 Bayonet | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 997.73,
+            "MW": 322.04,
+            "FT": 286.91,
+            "WW": 295.85,
+            "BS": 297.27
+        }
+    },
+    "m9_bayonet_forest_ddpat": {
+        "name": "★ M9 Bayonet | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 750,
+            "MW": 325,
+            "FT": 291.33,
+            "WW": 286.02,
+            "BS": 290.87
+        }
+    },
+    "m9_bayonet_safari_mesh": {
+        "name": "★ M9 Bayonet | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 445,
+            "MW": 310,
+            "FT": 278.84,
+            "WW": 297.56,
+            "BS": 307
+        }
+    },
+    "m9_bayonet_vanilla": {
+        "name": "★ M9 Bayonet | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 906.78,
+            "MW": 906.78,
+            "FT": 906.78,
+            "WW": 906.78,
+            "BS": 906.78
+        }
+    },
+    "flip_fade": {
+        "name": "★ Flip Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/flip_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 344.28,
+            "MW": 363.72
+        }
+    },
+    "flip_slaughter": {
+        "name": "★ Flip Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/flip_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 279.55,
+            "MW": 251.13,
+            "FT": 248.37
+        }
+    },
+    "flip_case_hardened": {
+        "name": "★ Flip Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/flip_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 347,
+            "MW": 171.02,
+            "FT": 143.08,
+            "WW": 144.8,
+            "BS": 148.59
+        }
+    },
+    "flip_crimson_web": {
+        "name": "★ Flip Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/flip_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1258.37,
+            "MW": 270,
+            "FT": 171.26,
+            "WW": 170,
+            "BS": 155.56
+        }
+    },
+    "flip_blue_steel": {
+        "name": "★ Flip Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/flip_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 253.42,
+            "MW": 168.7,
+            "FT": 146.52,
+            "WW": 139.8,
+            "BS": 138.78
+        }
+    },
+    "flip_stained": {
+        "name": "★ Flip Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/flip_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 157.32,
+            "MW": 126.01,
+            "FT": 108.35,
+            "WW": 107.33,
+            "BS": 107.57
+        }
+    },
+    "flip_night": {
+        "name": "★ Flip Knife | Night",
+        "finish": "Night",
+        "type": "Knife",
+        "pic": "/Knives/flip_night.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 489.46,
+            "MW": 138.78,
+            "FT": 113.63,
+            "WW": 113.97,
+            "BS": 105.97
+        }
+    },
+    "flip_scorched": {
+        "name": "★ Flip Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/flip_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 240,
+            "MW": 113.95,
+            "FT": 99.19,
+            "WW": 100.4,
+            "BS": 98.16
+        }
+    },
+    "flip_urban_masked": {
+        "name": "★ Flip Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/flip_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 423.54,
+            "MW": 117.89,
+            "FT": 103.02,
+            "WW": 106.91,
+            "BS": 101.56
+        }
+    },
+    "flip_boreal_forest": {
+        "name": "★ Flip Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/flip_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 240.42,
+            "MW": 101.43,
+            "FT": 94.61,
+            "WW": 99.66,
+            "BS": 96.12
+        }
+    },
+    "flip_forest_ddpat": {
+        "name": "★ Flip Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/flip_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 288.24,
+            "MW": 106.85,
+            "FT": 95.52,
+            "WW": 98.57,
+            "BS": 95.39
+        }
+    },
+    "flip_safari_mesh": {
+        "name": "★ Flip Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/flip_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 159.99,
+            "MW": 97.2,
+            "FT": 94.78,
+            "WW": 95.41,
+            "BS": 94.01
+        }
+    },
+    "flip_vanilla": {
+        "name": "★ Flip Knife",
+        "type": "Knife",
+        "pic": "/Knives/flip_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 259.82,
+            "MW": 259.82,
+            "FT": 259.82,
+            "WW": 259.82,
+            "BS": 259.82
+        }
+    },
+    "bayonet_fade": {
+        "name": "★ Bayonet | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 378.3,
+            "MW": 450
+        }
+    },
+    "bayonet_slaughter": {
+        "name": "★ Bayonet | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 388.82,
+            "MW": 309.23,
+            "FT": 295.82
+        }
+    },
+    "bayonet_case_hardened": {
+        "name": "★ Bayonet | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 494.99,
+            "MW": 264.67,
+            "FT": 233.63,
+            "WW": 219.68,
+            "BS": 216.47
+        }
+    },
+    "bayonet_crimson_web": {
+        "name": "★ Bayonet | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2036.8,
+            "MW": 310,
+            "FT": 194.9,
+            "WW": 192.76,
+            "BS": 185.6
+        }
+    },
+    "bayonet_blue_steel": {
+        "name": "★ Bayonet | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 374.67,
+            "MW": 246.22,
+            "FT": 214.87,
+            "WW": 195.22,
+            "BS": 189.2
+        }
+    },
+    "bayonet_stained": {
+        "name": "★ Bayonet | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 240,
+            "MW": 168.09,
+            "FT": 152,
+            "WW": 145.69,
+            "BS": 144.76
+        }
+    },
+    "bayonet_night": {
+        "name": "★ Bayonet | Night",
+        "finish": "Night",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_night.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 850,
+            "MW": 177.82,
+            "FT": 127.4,
+            "WW": 134.5,
+            "BS": 131.31
+        }
+    },
+    "bayonet_scorched": {
+        "name": "★ Bayonet | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 279.85,
+            "MW": 146.93,
+            "FT": 115.57,
+            "WW": 119.76,
+            "BS": 113.42
+        }
+    },
+    "bayonet_urban_masked": {
+        "name": "★ Bayonet | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 395.88,
+            "MW": 158.78,
+            "FT": 122.48,
+            "WW": 127.79,
+            "BS": 119.49
+        }
+    },
+    "bayonet_boreal_forest": {
+        "name": "★ Bayonet | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 519.9,
+            "MW": 141.55,
+            "FT": 117.71,
+            "WW": 121.17,
+            "BS": 114.47
+        }
+    },
+    "bayonet_forest_ddpat": {
+        "name": "★ Bayonet | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 365,
+            "MW": 139.37,
+            "FT": 118.24,
+            "WW": 113.15,
+            "BS": 119.42
+        }
+    },
+    "bayonet_safari_mesh": {
+        "name": "★ Bayonet | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 327.25,
+            "MW": 125.44,
+            "FT": 113.23,
+            "WW": 111.92,
+            "BS": 112.7
+        }
+    },
+    "bayonet_vanilla": {
+        "name": "★ Bayonet | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 267.75,
+            "MW": 267.75,
+            "FT": 267.75,
+            "WW": 267.75,
+            "BS": 267.75
+        }
+    },
+    "gut_fade": {
+        "name": "★ Gut Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/gut_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 130.76,
+            "MW": 156.92
+        }
+    },
+    "gut_slaughter": {
+        "name": "★ Gut Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/gut_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 118.46,
+            "MW": 107.62,
+            "FT": 105.16
+        }
+    },
+    "gut_case_hardened": {
+        "name": "★ Gut Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/gut_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 208.32,
+            "MW": 112.93,
+            "FT": 94.58,
+            "WW": 94.07,
+            "BS": 92.96
+        }
+    },
+    "gut_crimson_web": {
+        "name": "★ Gut Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/gut_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 484.78,
+            "MW": 98.99,
+            "FT": 74.15,
+            "WW": 76,
+            "BS": 74.76
+        }
+    },
+    "gut_blue_steel": {
+        "name": "★ Gut Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/gut_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 140.15,
+            "MW": 76.97,
+            "FT": 70.99,
+            "WW": 72.63,
+            "BS": 69.85
+        }
+    },
+    "gut_stained": {
+        "name": "★ Gut Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/gut_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 100.85,
+            "MW": 71,
+            "FT": 59.1,
+            "WW": 61.22,
+            "BS": 61.02
+        }
+    },
+    "gut_night": {
+        "name": "★ Gut Knife | Night",
+        "finish": "Night",
+        "type": "Knife",
+        "pic": "/Knives/gut_night.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 297.57,
+            "MW": 66.76,
+            "FT": 53.68,
+            "WW": 55.04,
+            "BS": 55.62
+        }
+    },
+    "gut_scorched": {
+        "name": "★ Gut Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/gut_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 398.19,
+            "MW": 61.95,
+            "FT": 52.8,
+            "WW": 54.31,
+            "BS": 54.47
+        }
+    },
+    "gut_urban_masked": {
+        "name": "★ Gut Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/gut_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 106.3,
+            "MW": 65.42,
+            "FT": 53.81,
+            "WW": 58.69,
+            "BS": 53.95
+        }
+    },
+    "gut_boreal_forest": {
+        "name": "★ Gut Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/gut_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 124.44,
+            "MW": 54.49,
+            "FT": 51.31,
+            "WW": 53.64,
+            "BS": 51.37
+        }
+    },
+    "gut_forest_ddpat": {
+        "name": "★ Gut Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/gut_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 78.21,
+            "MW": 61.12,
+            "FT": 50.92,
+            "WW": 53.75,
+            "BS": 51.18
+        }
+    },
+    "gut_safari_mesh": {
+        "name": "★ Gut Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/gut_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 169.9,
+            "MW": 54.63,
+            "FT": 52.4,
+            "WW": 58.21,
+            "BS": 52.62
+        }
+    },
+    "gut_vanilla": {
+        "name": "★ Gut Knife",
+        "type": "Knife",
+        "pic": "/Knives/gut_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 67.51,
+            "MW": 67.51,
+            "FT": 67.51,
+            "WW": 67.51,
+            "BS": 67.51
+        }
+    },
+    "karambit_lore": {
+        "name": "★ Karambit | Lore",
+        "finish": "Lore",
+        "type": "Knife",
+        "pic": "/Knives/karambit_lore.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1394.61,
+            "MW": 895,
+            "FT": 612.04,
+            "WW": 541.7,
+            "BS": 507.41
+        }
+    },
+    "karambit_autotronic": {
+        "name": "★ Karambit | Autotronic",
+        "finish": "Autotronic",
+        "type": "Knife",
+        "pic": "/Knives/karambit_autotronic.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1986.06,
+            "MW": 1257.9,
+            "FT": 960.4,
+            "WW": 849,
+            "BS": 737.23
+        }
+    },
+    "karambit_bright_water": {
+        "name": "★ Karambit | Bright Water",
+        "finish": "Bright Water",
+        "type": "Knife",
+        "pic": "/Knives/karambit_bright_water.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 578.6,
+            "MW": 500,
+            "FT": 468.58,
+            "WW": 468.33,
+            "BS": 456.47
+        }
+    },
+    "karambit_freehand": {
+        "name": "★ Karambit | Freehand",
+        "finish": "Freehand",
+        "type": "Knife",
+        "pic": "/Knives/karambit_freehand.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 599.82,
+            "MW": 545,
+            "FT": 506.96,
+            "WW": 498.3,
+            "BS": 479.13
+        }
+    },
+    "karambit_black_laminate": {
+        "name": "★ Karambit | Black Laminate",
+        "finish": "Black Laminate",
+        "type": "Knife",
+        "pic": "/Knives/karambit_black_laminate.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1031.83,
+            "MW": 795.55,
+            "FT": 723.29,
+            "WW": 664.78,
+            "BS": 629
+        }
+    },
+    "karambit_gamma_doppler": {
+        "name": "★ Karambit | Gamma Doppler",
+        "finish": "Gamma Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/karambit_doppler_phase1.webp",
+            "Phase 2": "/Knives/karambit_doppler_phase2.webp",
+            "Phase 3": "/Knives/karambit_doppler_phase3.webp",
+            "Phase 4": "/Knives/karambit_doppler_phase4.webp",
+            "Ruby": "/Knives/karambit_doppler_ruby.webp",
+            "Sapphire": "/Knives/karambit_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/karambit_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 2583.33,
+                "MW": 2491.12
+            },
+            "Phase 2": {
+                "FN": 3881.99,
+                "MW": 2973.82
+            },
+            "Phase 3": {
+                "FN": 2478.58,
+                "MW": 2477.1
+            },
+            "Phase 4": {
+                "FN": 2507.94,
+                "MW": 2491.46
+            },
+            "Emerald": {
+                "FN": 10305.37,
+                "MW": 9026.1
+            }
+        }
+    },
+    "m9_bayonet_lore": {
+        "name": "★ M9 Bayonet | Lore",
+        "finish": "Lore",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_lore.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1489.87,
+            "MW": 961.69,
+            "FT": 525.17,
+            "WW": 459.05,
+            "BS": 399.66
+        }
+    },
+    "m9_bayonet_autotronic": {
+        "name": "★ M9 Bayonet | Autotronic",
+        "finish": "Autotronic",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_autotronic.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1320,
+            "MW": 907.44,
+            "FT": 726.17,
+            "WW": 679.54,
+            "BS": 614.6
+        }
+    },
+    "m9_bayonet_bright_water": {
+        "name": "★ M9 Bayonet | Bright Water",
+        "finish": "Bright Water",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_bright_water.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 449.24,
+            "MW": 379.68,
+            "FT": 349.74,
+            "WW": 342.97,
+            "BS": 322.81
+        }
+    },
+    "m9_bayonet_freehand": {
+        "name": "★ M9 Bayonet | Freehand",
+        "finish": "Freehand",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_freehand.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 445.24,
+            "MW": 402.3,
+            "FT": 367.67,
+            "WW": 366.46,
+            "BS": 370.16
+        }
+    },
+    "m9_bayonet_black_laminate": {
+        "name": "★ M9 Bayonet | Black Laminate",
+        "finish": "Black Laminate",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_black_laminate.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 713.28,
+            "MW": 567.32,
+            "FT": 522.51,
+            "WW": 488.32,
+            "BS": 493
+        }
+    },
+    "m9_bayonet_gamma_doppler": {
+        "name": "★ M9 Bayonet | Gamma Doppler",
+        "finish": "Gamma Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/m9_bayonet_doppler_phase1.webp",
+            "Phase 2": "/Knives/m9_bayonet_doppler_phase2.webp",
+            "Phase 3": "/Knives/m9_bayonet_doppler_phase3.webp",
+            "Phase 4": "/Knives/m9_bayonet_doppler_phase4.webp",
+            "Ruby": "/Knives/m9_bayonet_doppler_ruby.webp",
+            "Sapphire": "/Knives/m9_bayonet_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/m9_bayonet_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 1637.5,
+                "MW": 1708.44
+            },
+            "Phase 2": {
+                "FN": 2220,
+                "MW": 1943.35
+            },
+            "Phase 3": {
+                "FN": 1615.25,
+                "MW": 1640.99
+            },
+            "Phase 4": {
+                "FN": 1625.65,
+                "MW": 1561.23
+            },
+            "Emerald": {
+                "FN": 9750,
+                "MW": 8625.9
+            }
+        }
+    },
+    "flip_lore": {
+        "name": "★ Flip Knife | Lore",
+        "finish": "Lore",
+        "type": "Knife",
+        "pic": "/Knives/flip_lore.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 288.82,
+            "MW": 210.63,
+            "FT": 164.79,
+            "WW": 160.69,
+            "BS": 151.63
+        }
+    },
+    "flip_autotronic": {
+        "name": "★ Flip Knife | Autotronic",
+        "finish": "Autotronic",
+        "type": "Knife",
+        "pic": "/Knives/flip_autotronic.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 347.03,
+            "MW": 217.84,
+            "FT": 172.97,
+            "WW": 164.2,
+            "BS": 158.87
+        }
+    },
+    "flip_bright_water": {
+        "name": "★ Flip Knife | Bright Water",
+        "finish": "Bright Water",
+        "type": "Knife",
+        "pic": "/Knives/flip_bright_water.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 137.11,
+            "MW": 121.54,
+            "FT": 116.14,
+            "WW": 114.47,
+            "BS": 123.89
+        }
+    },
+    "flip_freehand": {
+        "name": "★ Flip Knife | Freehand",
+        "finish": "Freehand",
+        "type": "Knife",
+        "pic": "/Knives/flip_freehand.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 137.81,
+            "MW": 123.01,
+            "FT": 115.83,
+            "WW": 113.69,
+            "BS": 135.42
+        }
+    },
+    "flip_black_laminate": {
+        "name": "★ Flip Knife | Black Laminate",
+        "finish": "Black Laminate",
+        "type": "Knife",
+        "pic": "/Knives/flip_black_laminate.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 186.21,
+            "MW": 132.19,
+            "FT": 122.1,
+            "WW": 112.46,
+            "BS": 113.1
+        }
+    },
+    "flip_gamma_doppler": {
+        "name": "★ Flip Knife | Gamma Doppler",
+        "finish": "Gamma Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/flip_gamma_doppler_phase1.webp",
+            "Phase 2": "/Knives/flip_gamma_doppler_phase2.webp",
+            "Phase 3": "/Knives/flip_gamma_doppler_phase3.webp",
+            "Phase 4": "/Knives/flip_gamma_doppler_phase4.webp",
+            "Emerlad": "/Knives/flip_gamma_doppler_emerald.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 468.05,
+                "MW": 526.65
+            },
+            "Phase 2": {
+                "FN": 591.07,
+                "MW": 599.15
+            },
+            "Phase 3": {
+                "FN": 455.17,
+                "MW": 512.11
+            },
+            "Phase 4": {
+                "FN": 452.52,
+                "MW": 486.59
+            },
+            "Emerald": {
+                "FN": 1649.39,
+                "MW": 1596.19
+            }
+        }
+    },
+    "bayonet_lore": {
+        "name": "★ Bayonet | Lore",
+        "finish": "Lore",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_lore.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 467,
+            "MW": 325.96,
+            "FT": 246.52,
+            "WW": 240.5,
+            "BS": 209.88
+        }
+    },
+    "bayonet_autotronic": {
+        "name": "★ Bayonet | Autotronic",
+        "finish": "Autotronic",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_autotronic.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 554.27,
+            "MW": 339.05,
+            "FT": 267.78,
+            "WW": 265.08,
+            "BS": 248.99
+        }
+    },
+    "bayonet_bright_water": {
+        "name": "★ Bayonet | Bright Water",
+        "finish": "Bright Water",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_bright_water.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 200.6,
+            "MW": 169.42,
+            "FT": 147.36,
+            "WW": 156.33,
+            "BS": 157.65
+        }
+    },
+    "bayonet_freehand": {
+        "name": "★ Bayonet | Freehand",
+        "finish": "Freehand",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_freehand.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 193.54,
+            "MW": 174.69,
+            "FT": 162.9,
+            "WW": 180.51,
+            "BS": 178.19
+        }
+    },
+    "bayonet_black_laminate": {
+        "name": "★ Bayonet | Black Laminate",
+        "finish": "Black Laminate",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_black_laminate.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 335,
+            "MW": 189.09,
+            "FT": 165.47,
+            "WW": 159.46,
+            "BS": 156.47
+        }
+    },
+    "bayonet_gamma_doppler": {
+        "name": "★ Bayonet | Gamma Doppler",
+        "finish": "Gamma Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/bayonet_gamma_doppler_phase1.webp",
+            "Phase 2": "/Knives/bayonet_gamma_doppler_phase2.webp",
+            "Phase 3": "/Knives/bayonet_gamma_doppler_phase3.webp",
+            "Phase 4": "/Knives/bayonet_gamma_doppler_phase4.webp",
+            "Emerald": "/Knives/bayonet_gamma_doppler_emerald.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 536.83,
+                "MW": 661.39
+            },
+            "Phase 2": {
+                "FN": 685,
+                "MW": 771.24
+            },
+            "Phase 3": {
+                "FN": 542.55,
+                "MW": 698.89
+            },
+            "Phase 4": {
+                "FN": 541.78,
+                "MW": 796.69
+            },
+            "Emerald": {
+                "FN": 2094.25,
+                "MW": 2166.65
+            }
+        }
+    },
+    "gut_lore": {
+        "name": "★ Gut Knife | Lore",
+        "finish": "Lore",
+        "type": "Knife",
+        "pic": "/Knives/gut_lore.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 140.66,
+            "MW": 103.93,
+            "FT": 84.96,
+            "WW": 95.16,
+            "BS": 86.12
+        }
+    },
+    "gut_autotronic": {
+        "name": "★ Gut Knife | Autotronic",
+        "finish": "Autotronic",
+        "type": "Knife",
+        "pic": "/Knives/gut_autotronic.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 204,
+            "MW": 109.11,
+            "FT": 94.05,
+            "WW": 99.64,
+            "BS": 93.77
+        }
+    },
+    "gut_bright_water": {
+        "name": "★ Gut Knife | Bright Water",
+        "finish": "Bright Water",
+        "type": "Knife",
+        "pic": "/Knives/gut_bright_water.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 75.48,
+            "MW": 62.2,
+            "FT": 60.72,
+            "WW": 67.48,
+            "BS": 65.5
+        }
+    },
+    "gut_freehand": {
+        "name": "★ Gut Knife | Freehand",
+        "finish": "Freehand",
+        "type": "Knife",
+        "pic": "/Knives/gut_freehand.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 72.85,
+            "MW": 63.62,
+            "FT": 62.21,
+            "WW": 68.19,
+            "BS": 72.95
+        }
+    },
+    "gut_black_laminate": {
+        "name": "★ Gut Knife | Black Laminate",
+        "finish": "Black Laminate",
+        "type": "Knife",
+        "pic": "/Knives/gut_black_laminate.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 100,
+            "MW": 61.98,
+            "FT": 57.19,
+            "WW": 56.11,
+            "BS": 55.03
+        }
+    },
+    "gut_gamma_doppler": {
+        "name": "★ Gut Knife | Gamma Doppler",
+        "finish": "Gamma Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/gut_gamma_doppler_phase1.webp",
+            "Phase 2": "/Knives/gut_gamma_doppler_phase2.webp",
+            "Phase 3": "/Knives/gut_gamma_doppler_phase3.webp",
+            "Phase 4": "/Knives/gut_gamma_doppler_phase4.webp",
+            "Emerald": "/Knives/gut_gamma_doppler_emerald.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 154.63,
+                "MW": 232.44
+            },
+            "Phase 2": {
+                "FN": 183.59,
+                "MW": 313.22
+            },
+            "Phase 3": {
+                "FN": 160.88,
+                "MW": 268.99
+            },
+            "Phase 4": {
+                "FN": 154.43,
+                "MW": 298
+            },
+            "Emerald": {
+                "FN": 470,
+                "MW": 506.44
+            }
+        }
+    },
+    "karambit_doppler": {
+        "name": "★ Karambit | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/karambit_doppler_phase1.webp",
+            "Phase 2": "/Knives/karambit_doppler_phase2.webp",
+            "Phase 3": "/Knives/karambit_doppler_phase3.webp",
+            "Phase 4": "/Knives/karambit_doppler_phase4.webp",
+            "Ruby": "/Knives/karambit_doppler_ruby.webp",
+            "Sapphire": "/Knives/karambit_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/karambit_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 1445.46,
+                "MW": 1423.42
+            },
+            "Phase 2": {
+                "FN": 2471.77,
+                "MW": 2277.78
+            },
+            "Phase 3": {
+                "FN": 1354.05,
+                "MW": 1398.19
+            },
+            "Phase 4": {
+                "FN": 1457.17,
+                "MW": 1566.07
+            },
+            "Ruby": {
+                "FN": 8430.93,
+                "MW": 8684.56
+            },
+            "Sapphire": {
+                "FN": 5579.94,
+                "MW": 5694.79
+            },
+            "Black Pearl": {
+                "FN": 9769.54,
+                "MW": 8668.61
+            }
+        }
+    },
+    "karambit_marble_fade": {
+        "name": "★ Karambit | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/karambit_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1159.3,
+            "MW": 1210.17
+        }
+    },
+    "karambit_tiger_tooth": {
+        "name": "★ Karambit | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/karambit_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 972.43,
+            "MW": 968.05
+        }
+    },
+    "karambit_ultraviolet": {
+        "name": "★ Karambit | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/karambit_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1965.34,
+            "MW": 676.19,
+            "FT": 495.37,
+            "WW": 471.34,
+            "BS": 457.09
+        }
+    },
+    "karambit_damascus_steel": {
+        "name": "★ Karambit | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/karambit_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 714.19,
+            "MW": 630,
+            "FT": 598.63,
+            "WW": 640,
+            "BS": 609
+        }
+    },
+    "karambit_rust_coat": {
+        "name": "★ Karambit | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/karambit_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 494.9,
+            "BS": 475.56
+        }
+    },
+    "m9_bayonet_doppler": {
+        "name": "★ M9 Bayonet | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/m9_bayonet_doppler_phase1.webp",
+            "Phase 2": "/Knives/m9_bayonet_doppler_phase2.webp",
+            "Phase 3": "/Knives/m9_bayonet_doppler_phase3.webp",
+            "Phase 4": "/Knives/m9_bayonet_doppler_phase4.webp",
+            "Ruby": "/Knives/m9_bayonet_doppler_ruby.webp",
+            "Sapphire": "/Knives/m9_bayonet_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/m9_bayonet_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 1090,
+                "MW": 1126.97
+            },
+            "Phase 2": {
+                "FN": 1589.84,
+                "MW": 1445.6
+            },
+            "Phase 3": {
+                "FN": 1032.32,
+                "MW": 1078.46
+            },
+            "Phase 4": {
+                "FN": 1200,
+                "MW": 1236.63
+            },
+            "Ruby": {
+                "FN": 9200,
+                "MW": 7764.78
+            },
+            "Sapphire": {
+                "FN": 5502.35,
+                "MW": 4851.53
+            },
+            "Black Pearl": {
+                "FN": 9190.73,
+                "MW": 8954.37
+            }
+        }
+    },
+    "m9_bayonet_marble_fade": {
+        "name": "★ M9 Bayonet | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 886.19,
+            "MW": 885.34
+        }
+    },
+    "m9_bayonet_tiger_tooth": {
+        "name": "★ M9 Bayonet | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 748,
+            "MW": 732.42
+        }
+    },
+    "m9_bayonet_ultraviolet": {
+        "name": "★ M9 Bayonet | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1606.18,
+            "MW": 503.88,
+            "FT": 369.77,
+            "WW": 350,
+            "BS": 346
+        }
+    },
+    "m9_bayonet_damascus_steel": {
+        "name": "★ M9 Bayonet | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 511.43,
+            "MW": 468,
+            "FT": 446.55,
+            "WW": 436.93,
+            "BS": 441.03
+        }
+    },
+    "m9_bayonet_rust_coat": {
+        "name": "★ M9 Bayonet | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/m9_bayonet_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 373.7,
+            "BS": 356.15
+        }
+    },
+    "flip_doppler": {
+        "name": "★ Flip Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/flip_doppler_phase1.webp",
+            "Phase 2": "/Knives/flip_doppler_phase2.webp",
+            "Phase 3": "/Knives/flip_doppler_phase3.webp",
+            "Phase 4": "/Knives/flip_doppler_phase4.webp",
+            "Ruby": "/Knives/flip_doppler_ruby.webp",
+            "Sapphire": "/Knives/flip_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/flip_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 321.94,
+                "MW": 376.78
+            },
+            "Phase 2": {
+                "FN": 447,
+                "MW": 457.69
+            },
+            "Phase 3": {
+                "FN": 316.54,
+                "MW": 399.33
+            },
+            "Phase 4": {
+                "FN": 327.02,
+                "MW": 384.26
+            },
+            "Ruby": {
+                "FN": 1679,
+                "MW": 1637.93
+            },
+            "Sapphire": {
+                "FN": 1108.55,
+                "MW": 1119.88
+            },
+            "Black Pearl": {
+                "FN": 1433.34,
+                "MW": 2280
+            }
+        }
+    },
+    "flip_marble_fade": {
+        "name": "★ Flip Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/flip_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 267.99,
+            "MW": 325.89
+        }
+    },
+    "flip_tiger_tooth": {
+        "name": "★ Flip Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/flip_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 221.5,
+            "MW": 279
+        }
+    },
+    "flip_ultraviolet": {
+        "name": "★ Flip Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/flip_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 353.23,
+            "MW": 150.68,
+            "FT": 120.08,
+            "WW": 114.69,
+            "BS": 108.92
+        }
+    },
+    "flip_damascus_steel": {
+        "name": "★ Flip Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/flip_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 131.84,
+            "MW": 122.4,
+            "FT": 117.1,
+            "WW": 117.92,
+            "BS": 119.52
+        }
+    },
+    "flip_rust_coat": {
+        "name": "★ Flip Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/flip_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 111.5,
+            "BS": 103.51
+        }
+    },
+    "bayonet_doppler": {
+        "name": "★ Bayonet | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/bayonet_doppler_phase1.webp",
+            "Phase 2": "/Knives/bayonet_doppler_phase2.webp",
+            "Phase 3": "/Knives/bayonet_doppler_phase3.webp",
+            "Phase 4": "/Knives/bayonet_doppler_phase4.webp",
+            "Ruby": "/Knives/bayonet_doppler_ruby.webp",
+            "Sapphire": "/Knives/bayonet_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/bayonet_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 412.26,
+                "MW": 502.79
+            },
+            "Phase 2": {
+                "FN": 520,
+                "MW": 540.27
+            },
+            "Phase 3": {
+                "FN": 410,
+                "MW": 492.43
+            },
+            "Phase 4": {
+                "FN": 420,
+                "MW": 443.9
+            },
+            "Ruby": {
+                "FN": 2125.63,
+                "MW": 1965.58
+            },
+            "Sapphire": {
+                "FN": 1530.06,
+                "MW": 1750
+            },
+            "Black Pearl": {
+                "FN": 1949,
+                "MW": 2805.03
+            }
+        }
+    },
+    "bayonet_marble_fade": {
+        "name": "★ Bayonet | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 370,
+            "MW": 472.29
+        }
+    },
+    "bayonet_tiger_tooth": {
+        "name": "★ Bayonet | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 298.91,
+            "MW": 387.25
+        }
+    },
+    "bayonet_ultraviolet": {
+        "name": "★ Bayonet | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 477.61,
+            "MW": 200.1,
+            "FT": 134.26,
+            "WW": 130.99,
+            "BS": 129.51
+        }
+    },
+    "bayonet_damascus_steel": {
+        "name": "★ Bayonet | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 193.17,
+            "MW": 177.97,
+            "FT": 170.51,
+            "WW": 176.47,
+            "BS": 168.36
+        }
+    },
+    "bayonet_rust_coat": {
+        "name": "★ Bayonet | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/bayonet_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 142.41,
+            "BS": 122.21
+        }
+    },
+    "gut_doppler": {
+        "name": "★ Gut Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/gut_doppler_phase1.webp",
+            "Phase 2": "/Knives/gut_doppler_phase2.webp",
+            "Phase 3": "/Knives/gut_doppler_phase3.webp",
+            "Phase 4": "/Knives/gut_doppler_phase4.webp",
+            "Ruby": "/Knives/gut_doppler_ruby.webp",
+            "Sapphire": "/Knives/gut_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/gut_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 120.82,
+                "MW": 178.06
+            },
+            "Phase 2": {
+                "FN": 141.38,
+                "MW": 202.3
+            },
+            "Phase 3": {
+                "FN": 120.56,
+                "MW": 185.98
+            },
+            "Phase 4": {
+                "FN": 121.82,
+                "MW": 176.53
+            },
+            "Ruby": {
+                "FN": 466.19,
+                "MW": 600
+            },
+            "Sapphire": {
+                "FN": 334.57,
+                "MW": 328.71
+            },
+            "Black Pearl": {
+                "FN": 541.83,
+                "MW": 556.47
+            }
+        }
+    },
+    "gut_marble_fade": {
+        "name": "★ Gut Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/gut_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 112.48,
+            "MW": 183.9
+        }
+    },
+    "gut_tiger_tooth": {
+        "name": "★ Gut Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/gut_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 100.92,
+            "MW": 142.09
+        }
+    },
+    "gut_ultraviolet": {
+        "name": "★ Gut Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/gut_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 185.82,
+            "MW": 55.55,
+            "FT": 56.71,
+            "WW": 59.77,
+            "BS": 56.42
+        }
+    },
+    "gut_damascus_steel": {
+        "name": "★ Gut Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/gut_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 75.81,
+            "MW": 63.84,
+            "FT": 63.16,
+            "WW": 75,
+            "BS": 92
+        }
+    },
+    "gut_rust_coat": {
+        "name": "★ Gut Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/gut_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 77.55,
+            "BS": 50.81
+        }
+    },
+
+    "butterfly_lore": {
+        "name": "★ Butterfly Knife | Lore",
+        "finish": "Lore",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_lore.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2477.17,
+            "MW": 1136.93,
+            "FT": 720,
+            "WW": 614,
+            "BS": 545.43
+        }
+    },
+    "butterfly_autotronic": {
+        "name": "★ Butterfly Knife | Autotronic",
+        "finish": "Autotronic",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_autotronic.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1646.02,
+            "MW": 1188.43,
+            "FT": 953.65,
+            "WW": 850.39,
+            "BS": 763.45
+        }
+    },
+    "butterfly_bright_water": {
+        "name": "★ Butterfly Knife | Bright Water",
+        "finish": "Bright Water",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_bright_water.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 695.64,
+            "MW": 607.82,
+            "FT": 566.36,
+            "WW": 534.37,
+            "BS": 530.51
+        }
+    },
+    "butterfly_freehand": {
+        "name": "★ Butterfly Knife | Freehand",
+        "finish": "Freehand",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_freehand.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 775,
+            "MW": 675,
+            "FT": 626.79,
+            "WW": 580.76,
+            "BS": 586.88
+        }
+    },
+    "butterfly_black_laminate": {
+        "name": "★ Butterfly Knife | Black Laminate",
+        "finish": "Black Laminate",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_black_laminate.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 946.37,
+            "MW": 777.19,
+            "FT": 712.59,
+            "WW": 657.36,
+            "BS": 630.41
+        }
+    },
+    "butterfly_gamma_doppler": {
+        "name": "★ Butterfly Knife | Gamma Doppler",
+        "finish": "Gamma Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/butterfly_gamma_doppler_phase1.webp",
+            "Phase 2": "/Knives/butterfly_gamma_doppler_phase2.webp",
+            "Phase 3": "/Knives/butterfly_gamma_doppler_phase3.webp",
+            "Phase 4": "/Knives/butterfly_gamma_doppler_phase4.webp",
+            "Emerald": "/Knives/butterfly_gamma_doppler_emerald.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 2294,
+                "MW": 2178.99
+            },
+            "Phase 2": {
+                "FN": 3044.33,
+                "MW": 2790.45
+            },
+            "Phase 3": {
+                "FN": 2339.71,
+                "MW": 2288.94
+            },
+            "Phase 4": {
+                "FN": 2299.61,
+                "MW": 2247.67
+            },
+            "Emerald": {
+                "FN": 11215.74,
+                "MW": 10677.73
+            }
+        }
+    },
+    "shadow_daggers_lore": {
+        "name": "★ Shadow Daggers | Lore",
+        "finish": "Lore",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_lore.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 131.18,
+            "MW": 70.5,
+            "FT": 59.27,
+            "WW": 58.44,
+            "BS": 56.14
+        }
+    },
+    "shadow_daggers_autotronic": {
+        "name": "★ Shadow Daggers | Autotronic",
+        "finish": "Autotronic",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_autotronic.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 94.75,
+            "MW": 59.27,
+            "FT": 52.88,
+            "WW": 55.78,
+            "BS": 53.2
+        }
+    },
+    "shadow_daggers_bright_water": {
+        "name": "★ Shadow Daggers | Bright Water",
+        "finish": "Bright Water",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_bright_water.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 50.7,
+            "MW": 48.79,
+            "FT": 46.65,
+            "WW": 47.76,
+            "BS": 54.19
+        }
+    },
+    "shadow_daggers_freehand": {
+        "name": "★ Shadow Daggers | Freehand",
+        "finish": "Freehand",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_freehand.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 63.43,
+            "MW": 55.35,
+            "FT": 53.29,
+            "WW": 55.96,
+            "BS": 55.14
+        }
+    },
+    "shadow_daggers_black_laminate": {
+        "name": "★ Shadow Daggers | Black Laminate",
+        "finish": "Black Laminate",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_black_laminate.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 72.61,
+            "MW": 49.32,
+            "FT": 47.04,
+            "WW": 46.64,
+            "BS": 46.56
+        }
+    },
+    "shadow_daggers_gamma_doppler": {
+        "name": "★ Shadow Daggers | Gamma Doppler",
+        "finish": "Gamma Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/shadow_daggers_gamma_doppler_phase1.webp",
+            "Phase 2": "/Knives/shadow_daggers_gamma_doppler_phase2.webp",
+            "Phase 3": "/Knives/shadow_daggers_gamma_doppler_phase3.webp",
+            "Phase 4": "/Knives/shadow_daggers_gamma_doppler_phase4.webp",
+            "Emerald": "/Knives/shadow_daggers_gamma_doppler_emerald.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 104.19,
+                "MW": 173.09
+            },
+            "Phase 2": {
+                "FN": 103.91,
+                "MW": 153.2
+            },
+            "Phase 3": {
+                "FN": 105.34,
+                "MW": 180.26
+            },
+            "Phase 4": {
+                "FN": 102.49,
+                "MW": 149.19
+            },
+            "Emerald": {
+                "FN": 244.5,
+                "MW": 270.12
+            }
+        }
+    },
+    "bowie_lore": {
+        "name": "★ Bowie Knife | Lore",
+        "finish": "Lore",
+        "type": "Knife",
+        "pic": "/Knives/bowie_lore.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 216.77,
+            "MW": 110.08,
+            "FT": 92.22,
+            "WW": 86.38,
+            "BS": 83.39
+        }
+    },
+    "bowie_autotronic": {
+        "name": "★ Bowie Knife | Autotronic",
+        "finish": "Autotronic",
+        "type": "Knife",
+        "pic": "/Knives/bowie_autotronic.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 163.72,
+            "MW": 105.29,
+            "FT": 90.07,
+            "WW": 90.52,
+            "BS": 87.28
+        }
+    },
+    "bowie_bright_water": {
+        "name": "★ Bowie Knife | Bright Water",
+        "finish": "Bright Water",
+        "type": "Knife",
+        "pic": "/Knives/bowie_bright_water.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 75.45,
+            "MW": 64.09,
+            "FT": 60.04,
+            "WW": 61.29,
+            "BS": 82.42
+        }
+    },
+    "bowie_freehand": {
+        "name": "★ Bowie Knife | Freehand",
+        "finish": "Freehand",
+        "type": "Knife",
+        "pic": "/Knives/bowie_freehand.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 86.9,
+            "MW": 76.97,
+            "FT": 69.98,
+            "WW": 70.73,
+            "BS": 80.79
+        }
+    },
+    "bowie_black_laminate": {
+        "name": "★ Bowie Knife | Black Laminate",
+        "finish": "Black Laminate",
+        "type": "Knife",
+        "pic": "/Knives/bowie_black_laminate.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 91.71,
+            "MW": 62.02,
+            "FT": 59,
+            "WW": 58.49,
+            "BS": 57.07
+        }
+    },
+    "bowie_gamma_doppler": {
+        "name": "★ Bowie Knife | Gamma Doppler",
+        "finish": "Gamma Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/bowie_gamma_doppler_phase1.webp",
+            "Phase 2": "/Knives/bowie_gamma_doppler_phase2.webp",
+            "Phase 3": "/Knives/bowie_gamma_doppler_phase3.webp",
+            "Phase 4": "/Knives/bowie_gamma_doppler_phase4.webp",
+            "Emerald": "/Knives/bowie_gamma_doppler_emerald.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 211.71,
+                "MW": 279.77
+            },
+            "Phase 2": {
+                "FN": 217.21,
+                "MW": 268.51
+            },
+            "Phase 3": {
+                "FN": 207.21,
+                "MW": 277.55
+            },
+            "Phase 4": {
+                "FN": 203.19,
+                "MW": 295.15
+            },
+            "Emerald": {
+                "FN": 568.1,
+                "MW": 757.66
+            }
+        }
+    },
+    "huntsman_lore": {
+        "name": "★ Huntsman Knife | Lore",
+        "finish": "Lore",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_lore.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 152.37,
+            "MW": 120.73,
+            "FT": 95.03,
+            "WW": 92.96,
+            "BS": 88.41
+        }
+    },
+    "huntsman_autotronic": {
+        "name": "★ Huntsman Knife | Autotronic",
+        "finish": "Autotronic",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_autotronic.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 190.71,
+            "MW": 124.91,
+            "FT": 105.72,
+            "WW": 102,
+            "BS": 99.77
+        }
+    },
+    "huntsman_bright_water": {
+        "name": "★ Huntsman Knife | Bright Water",
+        "finish": "Bright Water",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_bright_water.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 81.4,
+            "MW": 70.49,
+            "FT": 64.7,
+            "WW": 65.04,
+            "BS": 66.88
+        }
+    },
+    "huntsman_freehand": {
+        "name": "★ Huntsman Knife | Freehand",
+        "finish": "Freehand",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_freehand.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 88.56,
+            "MW": 76.97,
+            "FT": 68.95,
+            "WW": 71.98,
+            "BS": 80
+        }
+    },
+    "huntsman_black_laminate": {
+        "name": "★ Huntsman Knife | Black Laminate",
+        "finish": "Black Laminate",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_black_laminate.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 132.34,
+            "MW": 78.31,
+            "FT": 68.48,
+            "WW": 66.56,
+            "BS": 65.15
+        }
+    },
+    "huntsman_gamma_doppler": {
+        "name": "★ Huntsman Knife | Gamma Doppler",
+        "finish": "Gamma Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/huntsman_gamma__doppler_phase1.webp",
+            "Phase 2": "/Knives/huntsman_gamma__doppler_phase2.webp",
+            "Phase 3": "/Knives/huntsman_gamma__doppler_phase3.webp",
+            "Phase 4": "/Knives/huntsman_gamma__doppler_phase4.webp",
+            "Ruby": "/Knives/huntsman_gamma__doppler_ruby.webp",
+            "Sapphire": "/Knives/huntsman_gamma__doppler_sapphire.webp",
+            "Black Pearl": "/Knives/huntsman_gamma__doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 235.84,
+                "MW": 278.95
+            },
+            "Phase 2": {
+                "FN": 260.83,
+                "MW": 284.74
+            },
+            "Phase 3": {
+                "FN": 228.74,
+                "MW": 313.22
+            },
+            "Phase 4": {
+                "FN": 227.82,
+                "MW": 345.35
+            },
+            "Emerald": {
+                "FN": 711,
+                "MW": 800
+            }
+        }
+    },
+    "falchion_lore": {
+        "name": "★ Falchion Knife | Lore",
+        "finish": "Lore",
+        "type": "Knife",
+        "pic": "/Knives/falchion_lore.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 159.86,
+            "MW": 122.44,
+            "FT": 101.8,
+            "WW": 101.92,
+            "BS": 95.59
+        }
+    },
+    "falchion_autotronic": {
+        "name": "★ Falchion Knife | Autotronic",
+        "finish": "Autotronic",
+        "type": "Knife",
+        "pic": "/Knives/falchion_autotronic.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 176.44,
+            "MW": 119.69,
+            "FT": 104.12,
+            "WW": 105.22,
+            "BS": 100.49
+        }
+    },
+    "falchion_bright_water": {
+        "name": "★ Falchion Knife | Bright Water",
+        "finish": "Bright Water",
+        "type": "Knife",
+        "pic": "/Knives/falchion_bright_water.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 85.65,
+            "MW": 76.88,
+            "FT": 71.38,
+            "WW": 73.97,
+            "BS": 68.42
+        }
+    },
+    "falchion_freehand": {
+        "name": "★ Falchion Knife | Freehand",
+        "finish": "Freehand",
+        "type": "Knife",
+        "pic": "/Knives/falchion_freehand.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 97.53,
+            "MW": 87.64,
+            "FT": 79.67,
+            "WW": 85.38,
+            "BS": 77.81
+        }
+    },
+    "falchion_black_laminate": {
+        "name": "★ Falchion Knife | Black Laminate",
+        "finish": "Black Laminate",
+        "type": "Knife",
+        "pic": "/Knives/falchion_black_laminate.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 99.78,
+            "MW": 74.54,
+            "FT": 65.95,
+            "WW": 65.91,
+            "BS": 65.95
+        }
+    },
+    "falchion_gamma_doppler": {
+        "name": "★ Falchion Knife | Gamma Doppler",
+        "finish": "Gamma Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/falchion_gamma_doppler_phase1.webp",
+            "Phase 2": "/Knives/falchion_gamma_doppler_phase2.webp",
+            "Phase 3": "/Knives/falchion_gamma_doppler_phase3.webp",
+            "Phase 4": "/Knives/falchion_gamma_doppler_phase4.webp",
+            "Emerald": "/Knives/falchion_gamma_doppler_emerald.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 232,
+                "MW": 284.6
+            },
+            "Phase 2": {
+                "FN": 244.67,
+                "MW": 290
+            },
+            "Phase 3": {
+                "FN": 234.91,
+                "MW": 263.19
+            },
+            "Phase 4": {
+                "FN": 228.52,
+                "MW": 332.2
+            },
+            "Emerald": {
+                "FN": 583.72,
+                "MW": 675
+            }
+        }
+    },
+    
+    "butterfly_fade": {
+        "name": "★ Butterfly Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2770,
+            "MW": 2708.37
+        }
+    },
+    "butterfly_slaughter": {
+        "name": "★ Butterfly Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1720,
+            "MW": 1357.93,
+            "FT": 1227.37
+        }
+    },
+    "butterfly_crimson_web": {
+        "name": "★ Butterfly Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 4907.47,
+            "MW": 1167.13,
+            "FT": 729.17,
+            "WW": 674.55,
+            "BS": 587.16
+        }
+    },
+    "butterfly_case_hardened": {
+        "name": "★ Butterfly Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1276,
+            "MW": 881.6,
+            "FT": 727.32,
+            "WW": 670.47,
+            "BS": 644.26
+        }
+    },
+    "butterfly_urban_masked": {
+        "name": "★ Butterfly Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 791.1,
+            "MW": 547.41,
+            "FT": 465.54,
+            "WW": 450,
+            "BS": 465
+        }
+    },
+    "butterfly_boreal_forest": {
+        "name": "★ Butterfly Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 855.32,
+            "MW": 507.67,
+            "FT": 464.11,
+            "WW": 461.23,
+            "BS": 451.91
+        }
+    },
+    "butterfly_vanilla": {
+        "name": "★ Butterfly Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1619.76,
+            "MW": 1619.76,
+            "FT": 1619.76,
+            "WW": 1619.76,
+            "BS": 1619.76
+        }
+    },
+    "butterfly_night": {
+        "name": "★ Butterfly Knife | Night",
+        "finish": "Night",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_night.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1277.28,
+            "MW": 721.84,
+            "FT": 561.41,
+            "WW": 537.21,
+            "BS": 515
+        }
+    },
+    "butterfly_blue_steel": {
+        "name": "★ Butterfly Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1280.86,
+            "MW": 950.09,
+            "FT": 863.34,
+            "WW": 796.75,
+            "BS": 789.18
+        }
+    },
+    "butterfly_forest_ddpat": {
+        "name": "★ Butterfly Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 735.58,
+            "MW": 492,
+            "FT": 467.76,
+            "WW": 448.93,
+            "BS": 444.5
+        }
+    },
+    "butterfly_safari_mesh": {
+        "name": "★ Butterfly Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 769.64,
+            "MW": 465.93,
+            "FT": 441.99,
+            "WW": 446.61,
+            "BS": 443.35
+        }
+    },
+    "butterfly_stained": {
+        "name": "★ Butterfly Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 889.29,
+            "MW": 679,
+            "FT": 630,
+            "WW": 594.22,
+            "BS": 580
+        }
+    },
+    "butterfly_scorched": {
+        "name": "★ Butterfly Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 855.64,
+            "MW": 538.88,
+            "FT": 478.15,
+            "WW": 469.75,
+            "BS": 466.16
+        }
+    },
+    "ursus_doppler": {
+        "name": "★ Ursus Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/ursus_doppler_phase1.webp",
+            "Phase 2": "/Knives/ursus_doppler_phase2.webp",
+            "Phase 3": "/Knives/ursus_doppler_phase3.webp",
+            "Phase 4": "/Knives/ursus_doppler_phase4.webp",
+            "Ruby": "/Knives/ursus_doppler_ruby.webp",
+            "Sapphire": "/Knives/ursus_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/ursus_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 255.94,
+                "MW": 320.9
+            },
+            "Phase 2": {
+                "FN": 305.91,
+                "MW": 360.78
+            },
+            "Phase 3": {
+                "FN": 251.93,
+                "MW": 399
+            },
+            "Phase 4": {
+                "FN": 261.28,
+                "MW": 323.87
+            },
+            "Ruby": {
+                "FN": 910.95,
+                "MW": 900.2
+            },
+            "Sapphire": {
+                "FN": 607.71,
+                "MW": 727.66
+            },
+            "Black Pearl": {
+                "FN": 890.06,
+                "MW": 921.15
+            }
+        }
+    },
+    "ursus_marble_fade": {
+        "name": "★ Ursus Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/ursus_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 177.49,
+            "MW": 208.86
+        }
+    },
+    "ursus_tiger_tooth": {
+        "name": "★ Ursus Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/ursus_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 147.94,
+            "MW": 185.09
+        }
+    },
+    "ursus_ultraviolet": {
+        "name": "★ Ursus Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/ursus_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 399.86,
+            "MW": 124.49,
+            "FT": 91.03,
+            "WW": 87.44,
+            "BS": 80.83
+        }
+    },
+    "ursus_damascus_steel": {
+        "name": "★ Ursus Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/ursus_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 101.02,
+            "MW": 88.97,
+            "FT": 81.83,
+            "WW": 81.92,
+            "BS": 75.61
+        }
+    },
+    "ursus_rust_coat": {
+        "name": "★ Ursus Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/ursus_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 72,
+            "BS": 63.8
+        }
+    },
+    "navaja_doppler": {
+        "name": "★ Navaja Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/navaja_doppler_phase1.webp",
+            "Phase 2": "/Knives/navaja_doppler_phase2.webp",
+            "Phase 3": "/Knives/navaja_doppler_phase3.webp",
+            "Phase 4": "/Knives/navaja_doppler_phase4.webp",
+            "Ruby": "/Knives/navaja_doppler_ruby.webp",
+            "Sapphire": "/Knives/navaja_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/navaja_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 111.33,
+                "MW": 317.07
+            },
+            "Phase 2": {
+                "FN": 129,
+                "MW": 200.15
+            },
+            "Phase 3": {
+                "FN": 110.49,
+                "MW": 170.3
+            },
+            "Phase 4": {
+                "FN": 112.77,
+                "MW": 179.99
+            },
+            "Ruby": {
+                "FN": 289.77,
+                "MW": 299
+            },
+            "Sapphire": {
+                "FN": 210.35,
+                "MW": 311.83
+            },
+            "Black Pearl": {
+                "FN": 391.6,
+                "MW": 537.48
+            }
+        }
+    },
+    "navaja_marble_fade": {
+        "name": "★ Navaja Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/navaja_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 90.73,
+            "MW": 125.01
+        }
+    },
+    "navaja_tiger_tooth": {
+        "name": "★ Navaja Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/navaja_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 70.98,
+            "MW": 99.23
+        }
+    },
+    "navaja_ultraviolet": {
+        "name": "★ Navaja Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/navaja_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 171.06,
+            "MW": 57.83,
+            "FT": 49.37,
+            "WW": 51.06,
+            "BS": 49.49
+        }
+    },
+    "navaja_damascus_steel": {
+        "name": "★ Navaja Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/navaja_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 59.3,
+            "MW": 51.26,
+            "FT": 49.09,
+            "WW": 52.68,
+            "BS": 54.69
+        }
+    },
+    "navaja_rust_coat": {
+        "name": "★ Navaja Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/navaja_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 54.29,
+            "BS": 45.85
+        }
+    },
+    "stiletto_doppler": {
+        "name": "★ Stiletto Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/stiletto_doppler_phase1.webp",
+            "Phase 2": "/Knives/stiletto_doppler_phase2.webp",
+            "Phase 3": "/Knives/stiletto_doppler_phase3.webp",
+            "Phase 4": "/Knives/stiletto_doppler_phase4.webp",
+            "Ruby": "/Knives/stiletto_doppler_ruby.webp",
+            "Sapphire": "/Knives/stiletto_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/stiletto_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 500.99,
+                "MW": 494.38
+            },
+            "Phase 2": {
+                "FN": 700.79,
+                "MW": 700
+            },
+            "Phase 3": {
+                "FN": 478.89,
+                "MW": 499.16
+            },
+            "Phase 4": {
+                "FN": 525.34,
+                "MW": 569.48
+            },
+            "Ruby": {
+                "FN": 2192,
+                "MW": 1922
+            },
+            "Sapphire": {
+                "FN": 1267.79,
+                "MW": 1271.75
+            },
+            "Black Pearl": {
+                "FN": 1834.79,
+                "MW": 1880
+            }
+        }
+    },
+    "stiletto_marble_fade": {
+        "name": "★ Stiletto Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 324.67,
+            "MW": 346.63
+        }
+    },
+    "stiletto_tiger_tooth": {
+        "name": "★ Stiletto Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 298.38,
+            "MW": 325.44
+        }
+    },
+    "stiletto_ultraviolet": {
+        "name": "★ Stiletto Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 433.71,
+            "MW": 208.46,
+            "FT": 167.67,
+            "WW": 166.11,
+            "BS": 149.37
+        }
+    },
+    "stiletto_damascus_steel": {
+        "name": "★ Stiletto Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 216.25,
+            "MW": 190.07,
+            "FT": 176.41,
+            "WW": 178.18,
+            "BS": 176.41
+        }
+    },
+    "stiletto_rust_coat": {
+        "name": "★ Stiletto Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 142.37,
+            "BS": 128.3
+        }
+    },
+    "talon_doppler": {
+        "name": "★ Talon Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/talon_doppler_phase1.webp",
+            "Phase 2": "/Knives/talon_doppler_phase2.webp",
+            "Phase 3": "/Knives/talon_doppler_phase3.webp",
+            "Phase 4": "/Knives/talon_doppler_phase4.webp",
+            "Ruby": "/Knives/talon_doppler_ruby.webp",
+            "Sapphire": "/Knives/talon_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/talon_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 837.65,
+                "MW": 978.14
+            },
+            "Phase 2": {
+                "FN": 1072.05,
+                "MW": 1045
+            },
+            "Phase 3": {
+                "FN": 807.77,
+                "MW": 938.26
+            },
+            "Phase 4": {
+                "FN": 847.76,
+                "MW": 989.01
+            },
+            "Ruby": {
+                "FN": 3015.79,
+                "MW": 2902.36
+            },
+            "Sapphire": {
+                "FN": 1918.04,
+                "MW": 1977.24
+            },
+            "Black Pearl": {
+                "FN": 2428.09,
+                "MW": 2500
+            }
+        }
+    },
+    "talon_marble_fade": {
+        "name": "★ Talon Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/talon_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 565.34,
+            "MW": 636.97
+        }
+    },
+    "talon_tiger_tooth": {
+        "name": "★ Talon Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/talon_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 489.99,
+            "MW": 504.36
+        }
+    },
+    "talon_ultraviolet": {
+        "name": "★ Talon Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/talon_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 997.87,
+            "MW": 338.95,
+            "FT": 262.63,
+            "WW": 256.2,
+            "BS": 239.14
+        }
+    },
+    "talon_damascus_steel": {
+        "name": "★ Talon Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/talon_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 345.18,
+            "MW": 318,
+            "FT": 295,
+            "WW": 296.31,
+            "BS": 320.98
+        }
+    },
+    "talon_rust_coat": {
+        "name": "★ Talon Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/talon_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 262.73,
+            "BS": 243.87
+        }
+    },
+    "nomad_fade": {
+        "name": "★ Nomad Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/nomad_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 366.62,
+            "MW": 379.99
+        }
+    },
+    "nomad_crimson_web": {
+        "name": "★ Nomad Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/nomad_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 953.59,
+            "MW": 225,
+            "FT": 161.89,
+            "WW": 149.41,
+            "BS": 145.81
+        }
+    },
+    "nomad_slaughter": {
+        "name": "★ Nomad Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/nomad_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 270.51,
+            "MW": 243.76,
+            "FT": 243.48
+        }
+    },
+    "nomad_vanilla": {
+        "name": "★ Nomad Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/nomad_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 168.47,
+            "MW": 168.47,
+            "FT": 168.47,
+            "WW": 168.47,
+            "BS": 168.47
+        }
+    },
+    "nomad_case_hardened": {
+        "name": "★ Nomad Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/nomad_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 373.49,
+            "MW": 196,
+            "FT": 156.99,
+            "WW": 154.07,
+            "BS": 149.9
+        }
+    },
+    "nomad_boreal_forest": {
+        "name": "★ Nomad Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/nomad_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 183.6,
+            "MW": 90,
+            "FT": 83.56,
+            "WW": 81.66,
+            "BS": 77.98
+        }
+    },
+    "nomad_urban_masked": {
+        "name": "★ Nomad Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/nomad_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 206.85,
+            "MW": 109.49,
+            "FT": 93.66,
+            "WW": 96.1,
+            "BS": 88.67
+        }
+    },
+    "nomad_safari_mesh": {
+        "name": "★ Nomad Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/nomad_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 136.85,
+            "MW": 83.38,
+            "FT": 78.65,
+            "WW": 78.12,
+            "BS": 77.69
+        }
+    },
+    "nomad_scorched": {
+        "name": "★ Nomad Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/nomad_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 160.1,
+            "MW": 99.09,
+            "FT": 88.42,
+            "WW": 87.9,
+            "BS": 85.53
+        }
+    },
+    "nomad_blue_steel": {
+        "name": "★ Nomad Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/nomad_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 234.6,
+            "MW": 169.15,
+            "FT": 144.19,
+            "WW": 138.75,
+            "BS": 138.07
+        }
+    },
+    "nomad_night_stripe": {
+        "name": "★ Nomad Knife | Night Stripe",
+        "finish": "Night Stripe",
+        "type": "Knife",
+        "pic": "/Knives/nomad_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 226.37,
+            "MW": 110.41,
+            "FT": 94.24,
+            "WW": 94.2,
+            "BS": 86.89
+        }
+    },
+    "nomad_stained": {
+        "name": "★ Nomad Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/nomad_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 199.57,
+            "MW": 138.73,
+            "FT": 124.74,
+            "WW": 118.19,
+            "BS": 116.55
+        }
+    },
+    "nomad_forest_ddpat": {
+        "name": "★ Nomad Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/nomad_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 199.57,
+            "MW": 89.6,
+            "FT": 82.14,
+            "WW": 80.69,
+            "BS": 79.06
+        }
+    },
+    "paracord_fade": {
+        "name": "★ Paracord Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/paracord_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 172.99,
+            "MW": 213.73
+        }
+    },
+    "paracord_crimson_web": {
+        "name": "★ Paracord Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/paracord_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1237.1,
+            "MW": 127.5,
+            "FT": 95.49,
+            "WW": 94.97,
+            "BS": 91.73
+        }
+    },
+    "paracord_slaughter": {
+        "name": "★ Paracord Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/paracord_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 146.55,
+            "MW": 132.87,
+            "FT": 131.97
+        }
+    },
+    "paracord_vanilla": {
+        "name": "★ Paracord Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/paracord_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 73.5,
+            "MW": 73.5,
+            "FT": 73.5,
+            "WW": 73.5,
+            "BS": 73.5
+        }
+    },
+    "paracord_case_hardened": {
+        "name": "★ Paracord Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/paracord_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 232.95,
+            "MW": 116.83,
+            "FT": 103.98,
+            "WW": 105.09,
+            "BS": 102.99
+        }
+    },
+    "paracord_boreal_forest": {
+        "name": "★ Paracord Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/paracord_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 149,
+            "MW": 62.41,
+            "FT": 50.83,
+            "WW": 52.95,
+            "BS": 50
+        }
+    },
+    "paracord_urban_masked": {
+        "name": "★ Paracord Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/paracord_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 142.55,
+            "MW": 66.4,
+            "FT": 55.41,
+            "WW": 55.46,
+            "BS": 53.36
+        }
+    },
+    "paracord_safari_mesh": {
+        "name": "★ Paracord Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/paracord_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 114,
+            "MW": 51.15,
+            "FT": 50.01,
+            "WW": 50.2,
+            "BS": 50.08
+        }
+    },
+    "paracord_scorched": {
+        "name": "★ Paracord Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/paracord_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 115,
+            "MW": 61.5,
+            "FT": 52.22,
+            "WW": 53.75,
+            "BS": 51.99
+        }
+    },
+    "paracord_blue_steel": {
+        "name": "★ Paracord Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/paracord_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 142.53,
+            "MW": 87.14,
+            "FT": 79.01,
+            "WW": 76.37,
+            "BS": 74.8
+        }
+    },
+    "paracord_night_stripe": {
+        "name": "★ Paracord Knife | Night Stripe",
+        "finish": "Night Stripe",
+        "type": "Knife",
+        "pic": "/Knives/paracord_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 242.03,
+            "MW": 64.63,
+            "FT": 54.28,
+            "WW": 58.22,
+            "BS": 54.27
+        }
+    },
+    "paracord_stained": {
+        "name": "★ Paracord Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/paracord_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 113.81,
+            "MW": 67.75,
+            "FT": 62.7,
+            "WW": 64.81,
+            "BS": 63.8
+        }
+    },
+    "paracord_forest_ddpat": {
+        "name": "★ Paracord Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/paracord_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 101.21,
+            "MW": 54.71,
+            "FT": 51.5,
+            "WW": 53.01,
+            "BS": 51.9
+        }
+    },
+    "skeleton_fade": {
+        "name": "★ Skeleton Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 637.98,
+            "MW": 635.81
+        }
+    },
+    "skeleton_crimson_web": {
+        "name": "★ Skeleton Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1920.86,
+            "MW": 405.01,
+            "FT": 312.7,
+            "WW": 305.71,
+            "BS": 247.85
+        }
+    },
+    "skeleton_slaughter": {
+        "name": "★ Skeleton Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 464.5,
+            "MW": 412.23,
+            "FT": 409.34
+        }
+    },
+    "skeleton_vanilla": {
+        "name": "★ Skeleton Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 300.7,
+            "MW": 300.7,
+            "FT": 300.7,
+            "WW": 300.7,
+            "BS": 300.7
+        }
+    },
+    "skeleton_case_hardened": {
+        "name": "★ Skeleton Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 511.98,
+            "MW": 313.77,
+            "FT": 250,
+            "WW": 229.9,
+            "BS": 217.18
+        }
+    },
+    "skeleton_boreal_forest": {
+        "name": "★ Skeleton Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 240.63,
+            "MW": 125.08,
+            "FT": 109.57,
+            "WW": 109.11,
+            "BS": 108.86
+        }
+    },
+    "skeleton_urban_masked": {
+        "name": "★ Skeleton Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 275.88,
+            "MW": 163.02,
+            "FT": 136.68,
+            "WW": 132.97,
+            "BS": 122.47
+        }
+    },
+    "skeleton_safari_mesh": {
+        "name": "★ Skeleton Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 213.2,
+            "MW": 118.17,
+            "FT": 107.42,
+            "WW": 107.9,
+            "BS": 105.66
+        }
+    },
+    "skeleton_scorched": {
+        "name": "★ Skeleton Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 290,
+            "MW": 135.26,
+            "FT": 128.78,
+            "WW": 130.74,
+            "BS": 116.45
+        }
+    },
+    "skeleton_blue_steel": {
+        "name": "★ Skeleton Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 377.14,
+            "MW": 267.32,
+            "FT": 233.94,
+            "WW": 220.08,
+            "BS": 218.02
+        }
+    },
+    "skeleton_night_stripe": {
+        "name": "★ Skeleton Knife | Night Stripe",
+        "finish": "Night Stripe",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 485,
+            "MW": 182.99,
+            "FT": 151.94,
+            "WW": 151.32,
+            "BS": 140.13
+        }
+    },
+    "skeleton_stained": {
+        "name": "★ Skeleton Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 305.45,
+            "MW": 215.89,
+            "FT": 194.36,
+            "WW": 181.95,
+            "BS": 179
+        }
+    },
+    "skeleton_forest_ddpat": {
+        "name": "★ Skeleton Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 240.25,
+            "MW": 125.49,
+            "FT": 109.61,
+            "WW": 110.89,
+            "BS": 107.57
+        }
+    },
+    "survival_fade": {
+        "name": "★ Survival Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/survival_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 152.99,
+            "MW": 201.79
+        }
+    },
+    "survival_crimson_web": {
+        "name": "★ Survival Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/survival_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 595.99,
+            "MW": 109.51,
+            "FT": 94.21,
+            "WW": 93.21,
+            "BS": 88.47
+        }
+    },
+    "survival_slaughter": {
+        "name": "★ Survival Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/survival_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 135.06,
+            "MW": 130,
+            "FT": 132.26
+        }
+    },
+    "survival_vanilla": {
+        "name": "★ Survival Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/survival_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 65.8,
+            "MW": 65.8,
+            "FT": 65.8,
+            "WW": 65.8,
+            "BS": 65.8
+        }
+    },
+    "survival_case_hardened": {
+        "name": "★ Survival Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/survival_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 196.24,
+            "MW": 106.02,
+            "FT": 93,
+            "WW": 89.03,
+            "BS": 89.87
+        }
+    },
+    "survival_boreal_forest": {
+        "name": "★ Survival Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/survival_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 102.47,
+            "MW": 56.06,
+            "FT": 55.16,
+            "WW": 53.58,
+            "BS": 55.24
+        }
+    },
+    "survival_urban_masked": {
+        "name": "★ Survival Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/survival_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 200.18,
+            "MW": 64.27,
+            "FT": 55.98,
+            "WW": 56.81,
+            "BS": 54.14
+        }
+    },
+    "survival_safari_mesh": {
+        "name": "★ Survival Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/survival_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 113.47,
+            "MW": 52.45,
+            "FT": 49.38,
+            "WW": 49.76,
+            "BS": 51.36
+        }
+    },
+    "survival_scorched": {
+        "name": "★ Survival Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/survival_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 112.68,
+            "MW": 56.63,
+            "FT": 50.85,
+            "WW": 52.27,
+            "BS": 50.81
+        }
+    },
+    "survival_blue_steel": {
+        "name": "★ Survival Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/survival_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 200.18,
+            "MW": 64.27,
+            "FT": 55.98,
+            "WW": 56.81,
+            "BS": 54.14
+        }
+    },
+    "survival_night_stripe": {
+        "name": "★ Survival Knife | Night Stripe",
+        "finish": "Night Stripe",
+        "type": "Knife",
+        "pic": "/Knives/survival_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 132.66,
+            "MW": 59.38,
+            "FT": 53.2,
+            "WW": 56.57,
+            "BS": 52.91
+        }
+    },
+    "survival_stained": {
+        "name": "★ Survival Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/survival_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 100.05,
+            "MW": 66.91,
+            "FT": 64.8,
+            "WW": 64.5,
+            "BS": 64.9
+        }
+    },
+    "survival_forest_ddpat": {
+        "name": "★ Survival Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/survival_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 142.41,
+            "MW": 55.35,
+            "FT": 51.67,
+            "WW": 51.85,
+            "BS": 51.46
+        }
+    },
+    "nomad_doppler": {
+        "name": "★ Nomad Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/nomad_doppler_phase1.webp",
+            "Phase 2": "/Knives/nomad_doppler_phase2.webp",
+            "Phase 3": "/Knives/nomad_doppler_phase3.webp",
+            "Phase 4": "/Knives/nomad_doppler_phase4.webp",
+            "Ruby": "/Knives/nomad_doppler_ruby.webp",
+            "Sapphire": "/Knives/nomad_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/nomad_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 430,
+                "MW": 420.98
+            },
+            "Phase 2": {
+                "FN": 517.69,
+                "MW": 500.84
+            },
+            "Phase 3": {
+                "FN": 418,
+                "MW": 410
+            },
+            "Phase 4": {
+                "FN": 495.19,
+                "MW": 490.54
+            },
+            "Ruby": {
+                "FN": 1705,
+                "MW": 1700.22
+            },
+            "Sapphire": {
+                "FN": 1076.87,
+                "MW": 1068.47
+            },
+            "Black Pearl": {
+                "FN": 1259.97,
+                "MW": 1255.61
+            }
+        }
+    },
+    "nomad_marble_fade": {
+        "name": "★ Nomad Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/nomad_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 279.61,
+            "MW": 275.78
+        }
+    },
+    "nomad_tiger_tooth": {
+        "name": "★ Nomad Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/nomad_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 229.38,
+            "MW": 226.37
+        }
+    },
+    "nomad_ultraviolet": {
+        "name": "★ Nomad Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/nomad_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 560.64,
+            "MW": 162.16,
+            "FT": 120.9,
+            "WW": 120,
+            "BS": 119.71
+        }
+    },
+    "nomad_damascus_steel": {
+        "name": "★ Nomad Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/nomad_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 170.1,
+            "MW": 154.96,
+            "FT": 136.17,
+            "WW": 169.99,
+            "BS": 152
+        }
+    },
+    "nomad_rust_coat": {
+        "name": "★ Nomad Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/nomad_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 110,
+            "BS": 99.35
+        }
+    },
+    "paracord_doppler": {
+        "name": "★ Paracord Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/paracord_doppler_phase1.webp",
+            "Phase 2": "/Knives/paracord_doppler_phase2.webp",
+            "Phase 3": "/Knives/paracord_doppler_phase3.webp",
+            "Phase 4": "/Knives/paracord_doppler_phase4.webp",
+            "Ruby": "/Knives/paracord_doppler_ruby.webp",
+            "Sapphire": "/Knives/paracord_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/paracord_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 229.76,
+                "MW": 225.5
+            },
+            "Phase 2": {
+                "FN": 267.52,
+                "MW": 263.67
+            },
+            "Phase 3": {
+                "FN": 219.63,
+                "MW": 213.64
+            },
+            "Phase 4": {
+                "FN": 228.99,
+                "MW": 224
+            },
+            "Ruby": {
+                "FN": 753.84,
+                "MW": 752.55
+            },
+            "Sapphire": {
+                "FN": 491.14,
+                "MW": 488
+            },
+            "Black Pearl": {
+                "FN": 695,
+                "MW": 690
+            }
+        }
+    },
+    "paracord_marble_fade": {
+        "name": "★ Paracord Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/paracord_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 146.69,
+            "MW": 142.42
+        }
+    },
+    "paracord_tiger_tooth": {
+        "name": "★ Paracord Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/paracord_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 125,
+            "MW": 122.07
+        }
+    },
+    "paracord_ultraviolet": {
+        "name": "★ Paracord Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/paracord_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 336.99,
+            "MW": 95.34,
+            "FT": 71.97,
+            "WW": 70,
+            "BS": 69.73
+        }
+    },
+    "paracord_damascus_steel": {
+        "name": "★ Paracord Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/paracord_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 90.69,
+            "MW": 80.78,
+            "FT": 67.4,
+            "WW": 66.49,
+            "BS": 65
+        }
+    },
+    "paracord_rust_coat": {
+        "name": "★ Paracord Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/paracord_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 65,
+            "BS": 52.99
+        }
+    },
+    "skeleton_doppler": {
+        "name": "★ Skeleton Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/skeleton_doppler_phase1.webp",
+            "Phase 2": "/Knives/skeleton_doppler_phase2.webp",
+            "Phase 3": "/Knives/skeleton_doppler_phase3.webp",
+            "Phase 4": "/Knives/skeleton_doppler_phase4.webp",
+            "Ruby": "/Knives/skeleton_doppler_ruby.webp",
+            "Sapphire": "/Knives/skeleton_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/skeleton_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 700,
+                "MW": 695
+            },
+            "Phase 2": {
+                "FN": 1031.62,
+                "MW": 1028.82
+            },
+            "Phase 3": {
+                "FN": 677.77,
+                "MW": 671.42
+            },
+            "Phase 4": {
+                "FN": 750,
+                "MW": 743
+            },
+            "Ruby": {
+                "FN": 3487.97,
+                "MW": 3122.14
+            },
+            "Sapphire": {
+                "FN": 1900.62,
+                "MW": 1830
+            },
+            "Black Pearl": {
+                "FN": 2699,
+                "MW": 2108.13
+            }
+        }
+    },
+    "skeleton_marble_fade": {
+        "name": "★ Skeleton Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 454.34,
+            "MW": 451.89
+        }
+    },
+    "skeleton_tiger_tooth": {
+        "name": "★ Skeleton Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 379.09,
+            "MW": 372
+        }
+    },
+    "skeleton_ultraviolet": {
+        "name": "★ Skeleton Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 625,
+            "MW": 259.32,
+            "FT": 217.15,
+            "WW": 203.76,
+            "BS": 183
+        }
+    },
+    "skeleton_damascus_steel": {
+        "name": "★ Skeleton Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 254.79,
+            "MW": 230.4,
+            "FT": 217.95,
+            "WW": 217.45,
+            "BS": 216
+        }
+    },
+    "skeleton_rust_coat": {
+        "name": "★ Skeleton Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/skeleton_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 173.14,
+            "BS": 141.23
+        }
+    },
+    "survival_doppler": {
+        "name": "★ Survival Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/survival_doppler_phase1.webp",
+            "Phase 2": "/Knives/survival_doppler_phase2.webp",
+            "Phase 3": "/Knives/survival_doppler_phase3.webp",
+            "Phase 4": "/Knives/survival_doppler_phase4.webp",
+            "Ruby": "/Knives/survival_doppler_ruby.webp",
+            "Sapphire": "/Knives/survival_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/survival_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 197.3,
+                "MW": 195.02
+            },
+            "Phase 2": {
+                "FN": 229.91,
+                "MW": 222.22
+            },
+            "Phase 3": {
+                "FN": 203,
+                "MW": 200.19
+            },
+            "Phase 4": {
+                "FN": 204.75,
+                "MW": 199.98
+            },
+            "Ruby": {
+                "FN": 597.76,
+                "MW": 590
+            },
+            "Sapphire": {
+                "FN": 408.74,
+                "MW": 402.38
+            },
+            "Black Pearl": {
+                "FN": 610,
+                "MW": 607.98
+            }
+        }
+    },
+    "survival_marble_fade": {
+        "name": "★ Survival Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/survival_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 140.93,
+            "MW": 131.5
+        }
+    },
+    "survival_tiger_tooth": {
+        "name": "★ Survival Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/survival_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 123.37,
+            "MW": 121.25
+        }
+    },
+    "survival_ultraviolet": {
+        "name": "★ Survival Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/survival_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 179,
+            "MW": 83.58,
+            "FT": 72.17,
+            "WW": 70.01,
+            "BS": 69.26
+        }
+    },
+    "survival_damascus_steel": {
+        "name": "★ Survival Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/survival_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 81.99,
+            "MW": 75.89,
+            "FT": 74.21,
+            "WW": 72,
+            "BS": 69.1
+        }
+    },
+    "survival_rust_coat": {
+        "name": "★ Survival Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/survival_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 57.64,
+            "BS": 53
+        }
+    },
+    "kukri_fade": {
+        "name": "★ Kukri Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/kukri_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 224.51,
+            "MW": 231.62
+        }
+    },
+    "kukri_slaughter": {
+        "name": "★ Kukri Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/kukri_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 179.39,
+            "MW": 156.52,
+            "FT": 147.62
+        }
+    },
+    "kukri_crimson_web": {
+        "name": "★ Kukri Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/kukri_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 565,
+            "MW": 153.05,
+            "FT": 102.11,
+            "WW": 99.45,
+            "BS": 85.8
+        }
+    },
+    "kukri_case_hardened": {
+        "name": "★ Kukri Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/kukri_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 228.31,
+            "MW": 137.19,
+            "FT": 114.99,
+            "WW": 106.41,
+            "BS": 104.82
+        }
+    },
+    "kukri_urban_masked": {
+        "name": "★ Kukri Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/kukri_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 194.58,
+            "MW": 82.43,
+            "FT": 56.65,
+            "WW": 57.86,
+            "BS": 57.74
+        }
+    },
+    "kukri_boreal_forest": {
+        "name": "★ Kukri Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/kukri_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 106.07,
+            "MW": 60.69,
+            "FT": 52.09,
+            "WW": 51.32,
+            "BS": 51.48
+        }
+    },
+    "kukri_vanilla": {
+        "name": "★ Kukri Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/kukri_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 117.87,
+            "MW": 117.87,
+            "FT": 117.87,
+            "WW": 117.87,
+            "BS": 117.87
+        }
+    },
+    "kukri_night_stripe": {
+        "name": "★ Kukri Knife | Night Stripe",
+        "finish": "Night Stripe",
+        "type": "Knife",
+        "pic": "/Knives/kukri_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 148.93,
+            "MW": 77.45,
+            "FT": 59.75,
+            "WW": 58.44,
+            "BS": 58.55
+        }
+    },
+    "kukri_blue_steel": {
+        "name": "★ Kukri Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/kukri_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 153.29,
+            "MW": 103.71,
+            "FT": 94.76,
+            "WW": 87.65,
+            "BS": 87.15
+        }
+    },
+    "kukri_forest_ddpat": {
+        "name": "★ Kukri Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/kukri_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 109.9,
+            "MW": 62.34,
+            "FT": 51.95,
+            "WW": 51.8,
+            "BS": 51.93
+        }
+    },
+    "kukri_safari_mesh": {
+        "name": "★ Kukri Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/kukri_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 104,
+            "MW": 55.56,
+            "FT": 51.04,
+            "WW": 51.35,
+            "BS": 51.51
+        }
+    },
+    "kukri_stained": {
+        "name": "★ Kukri Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/kukri_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 117.78,
+            "MW": 84.51,
+            "FT": 77.37,
+            "WW": 74.66,
+            "BS": 72.09
+        }
+    },
+    "kukri_scorched": {
+        "name": "★ Kukri Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/kukri_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 145.99,
+            "MW": 75.63,
+            "FT": 53.99,
+            "WW": 53.11,
+            "BS": 53.29
+        }
+    },
+    "butterfly_doppler": {
+        "name": "★ Butterfly Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/butterfly_doppler_phase1.webp",
+            "Phase 2": "/Knives/butterfly_doppler_phase2.webp",
+            "Phase 3": "/Knives/butterfly_doppler_phase3.webp",
+            "Phase 4": "/Knives/butterfly_doppler_phase4.webp",
+            "Ruby": "/Knives/butterfly_doppler_ruby.webp",
+            "Sapphire": "/Knives/butterfly_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/butterfly_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 2471.8,
+                "MW": 2524.9
+            },
+            "Phase 2": {
+                "FN": 5550,
+                "MW": 5262.33
+            },
+            "Phase 3": {
+                "FN": 2305.76,
+                "MW": 2525
+            },
+            "Phase 4": {
+                "FN": 3199,
+                "MW": 2839.98
+            },
+            "Ruby": {
+                "FN": 12258.83,
+                "MW": 10271.04
+            },
+            "Sapphire": {
+                "FN": 8273.14,
+                "MW": 7135.34
+            },
+            "Black Pearl": {
+                "FN": 11987.63,
+                "MW": 10087.63
+            }
+        }
+    },
+    "butterfly_marble_fade": {
+        "name": "★ Butterfly Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1600,
+            "MW": 1664.2
+        }
+    },
+    "butterfly_tiger_tooth": {
+        "name": "★ Butterfly Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1300,
+            "MW": 1279.24
+        }
+    },
+    "butterfly_ultraviolet": {
+        "name": "★ Butterfly Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1854.5,
+            "MW": 847,
+            "FT": 607.19,
+            "WW": 589.31,
+            "BS": 518.5
+        }
+    },
+    "butterfly_damascus_steel": {
+        "name": "★ Butterfly Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 925,
+            "MW": 821.2,
+            "FT": 762.45,
+            "WW": 780,
+            "BS": 783.03
+        }
+    },
+    "butterfly_rust_coat": {
+        "name": "★ Butterfly Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/butterfly_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 610.41,
+            "BS": 569.84
+        }
+    },
+    "bowie_doppler": {
+        "name": "★ Bowie Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/bowie_doppler_phase1.webp",
+            "Phase 2": "/Knives/bowie_doppler_phase2.webp",
+            "Phase 3": "/Knives/bowie_doppler_phase3.webp",
+            "Phase 4": "/Knives/bowie_doppler_phase4.webp",
+            "Ruby": "/Knives/bowiet_doppler_ruby.webp",
+            "Sapphire": "/Knives/bowie_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/bowie_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 259.68,
+                "MW": 581.91
+            },
+            "Phase 2": {
+                "FN": 295,
+                "MW": 399.9
+            },
+            "Phase 3": {
+                "FN": 244.03,
+                "MW": 463.63
+            },
+            "Phase 4": {
+                "FN": 258.33,
+                "MW": 385.69
+            },
+            "Ruby": {
+                "FN": 828.14,
+                "MW": 1084.07
+            },
+            "Sapphire": {
+                "FN": 512,
+                "MW": 550.63
+            },
+            "Black Pearl": {
+                "FN": 1141.7,
+                "MW": 1529.99
+            }
+        }
+    },
+    "bowie_marble_fade": {
+        "name": "★ Bowie Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/bowie_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 176.05,
+            "MW": 241.25
+        }
+    },
+    "bowie_tiger_tooth": {
+        "name": "★ Bowie Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/bowie_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 136.81,
+            "MW": 170.98
+        }
+    },
+    "bowie_ultraviolet": {
+        "name": "★ Bowie Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/bowie_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 256.77,
+            "MW": 94.01,
+            "FT": 66.69,
+            "WW": 76.73,
+            "BS": 66.73
+        }
+    },
+    "bowie_damascus_steel": {
+        "name": "★ Bowie Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/bowie_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 102.5,
+            "MW": 85.42,
+            "FT": 75.89,
+            "WW": 85.84,
+            "BS": 89.56
+        }
+    },
+    "bowie_rust_coat": {
+        "name": "★ Bowie Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/bowie_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 66.91,
+            "BS": 53.89
+        }
+    },
+    "huntsman_doppler": {
+        "name": "★ Huntsman Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/huntsman_doppler_phase1.webp",
+            "Phase 2": "/Knives/huntsman_doppler_phase2.webp",
+            "Phase 3": "/Knives/huntsman_doppler_phase3.webp",
+            "Phase 4": "/Knives/huntsman_doppler_phase4.webp",
+            "Ruby": "/Knives/huntsman_doppler_ruby.webp",
+            "Sapphire": "/Knives/huntsman_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/huntsman_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 281.74,
+                "MW": 475.83
+            },
+            "Phase 2": {
+                "FN": 368.05,
+                "MW": 409.5
+            },
+            "Phase 3": {
+                "FN": 278.29,
+                "MW": 470.99
+            },
+            "Phase 4": {
+                "FN": 298.08,
+                "MW": 449.25
+            },
+            "Ruby": {
+                "FN": 1028.07,
+                "MW": 1057.45
+            },
+            "Sapphire": {
+                "FN": 660.79,
+                "MW": 870.05
+            },
+            "Black Pearl": {
+                "FN": 1262.05,
+                "MW": 1745.21
+            }
+        }
+    },
+    "huntsman_marble_fade": {
+        "name": "★ Huntsman Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 191.09,
+            "MW": 273.38
+        }
+    },
+    "huntsman_tiger_tooth": {
+        "name": "★ Huntsman Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 149.87,
+            "MW": 167.97
+        }
+    },
+    "huntsman_ultraviolet": {
+        "name": "★ Huntsman Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 375.52,
+            "MW": 101.43,
+            "FT": 66.45,
+            "WW": 68.61,
+            "BS": 64.58
+        }
+    },
+    "huntsman_damascus_steel": {
+        "name": "★ Huntsman Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 110,
+            "MW": 94.02,
+            "FT": 87.39,
+            "WW": 89.55,
+            "BS": 93.07
+        }
+    },
+    "huntsman_rust_coat": {
+        "name": "★ Huntsman Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 69.36,
+            "BS": 57.41
+        }
+    },
+    "falchion_doppler": {
+        "name": "★ Falchion Knife | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/falchion_doppler_phase1.webp",
+            "Phase 2": "/Knives/falchion_doppler_phase2.webp",
+            "Phase 3": "/Knives/falchion_doppler_phase3.webp",
+            "Phase 4": "/Knives/falchion_doppler_phase4.webp",
+            "Ruby": "/Knives/falchion_doppler_ruby.webp",
+            "Sapphire": "/Knives/falchion_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/falchion_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 285.31,
+                "MW": 410.78
+            },
+            "Phase 2": {
+                "FN": 328.09,
+                "MW": 465.36
+            },
+            "Phase 3": {
+                "FN": 279.32,
+                "MW": 372.65
+            },
+            "Phase 4": {
+                "FN": 285.24,
+                "MW": 432.21
+            },
+            "Ruby": {
+                "FN": 792.68,
+                "MW": 855.78
+            },
+            "Sapphire": {
+                "FN": 523.23,
+                "MW": 790.88
+            },
+            "Black Pearl": {
+                "FN": 912.99,
+                "MW": 1000
+            }
+        }
+    },
+    "falchion_marble_fade": {
+        "name": "★ Falchion Knife | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/falchion_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 184.74,
+            "MW": 221.27
+        }
+    },
+    "falchion_tiger_tooth": {
+        "name": "★ Falchion Knife | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/falchion_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 148.22,
+            "MW": 185.17
+        }
+    },
+    "falchion_ultraviolet": {
+        "name": "★ Falchion Knife | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/falchion_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 253.57,
+            "MW": 109.59,
+            "FT": 76.69,
+            "WW": 78.23,
+            "BS": 74.79
+        }
+    },
+    "falchion_damascus_steel": {
+        "name": "★ Falchion Knife | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/falchion_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 111.04,
+            "MW": 95.72,
+            "FT": 88.05,
+            "WW": 90.74,
+            "BS": 113.27
+        }
+    },
+    "falchion_rust_coat": {
+        "name": "★ Falchion Knife | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/falchion_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 68.7,
+            "BS": 61.43
+        }
+    },
+    "shadow_daggers_doppler": {
+        "name": "★ Shadow Daggers | Doppler",
+        "finish": "Doppler",
+        "type": "Knife",
+        "pic": null,
+        "rarity": "Rare Special Item",
+        "phasePics": {
+            "Phase 1": "/Knives/shadow_daggers_doppler_phase1.webp",
+            "Phase 2": "/Knives/shadow_daggers_doppler_phase2.webp",
+            "Phase 3": "/Knives/shadow_daggers_doppler_phase3.webp",
+            "Phase 4": "/Knives/shadow_daggers_doppler_phase4.webp",
+            "Ruby": "/Knives/shadow_daggers_doppler_ruby.webp",
+            "Sapphire": "/Knives/shadow_daggers_doppler_sapphire.webp",
+            "Black Pearl": "/Knives/shadow_daggers_doppler_blackpearl.webp"
+        },
+        "phases": {
+            "Phase 1": {
+                "FN": 136.26,
+                "MW": 290.14
+            },
+            "Phase 2": {
+                "FN": 182.38,
+                "MW": 228.25
+            },
+            "Phase 3": {
+                "FN": 135.9,
+                "MW": 212
+            },
+            "Phase 4": {
+                "FN": 142.65,
+                "MW": 226.48
+            },
+            "Ruby": {
+                "FN": 384.96,
+                "MW": 448.45
+            },
+            "Sapphire": {
+                "FN": 262.81,
+                "MW": 353.52
+            },
+            "Black Pearl": {
+                "FN": 663.35,
+                "MW": 608.87
+            }
+        }
+    },
+    "shadow_daggers_marble_fade": {
+        "name": "★ Shadow Daggers | Marble Fade",
+        "finish": "Marble Fade",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_marble_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 99.17,
+            "MW": 124.68
+        }
+    },
+    "shadow_daggers_tiger_tooth": {
+        "name": "★ Shadow Daggers | Tiger Tooth",
+        "finish": "Tiger Tooth",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_tiger_tooth.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 84.62,
+            "MW": 113.16
+        }
+    },
+    "shadow_daggers_ultraviolet": {
+        "name": "★ Shadow Daggers | Ultraviolet",
+        "finish": "Ultraviolet",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_ultraviolet.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 220.67,
+            "MW": 70.93,
+            "FT": 52,
+            "WW": 55.03,
+            "BS": 52.65
+        }
+    },
+    "shadow_daggers_damascus_steel": {
+        "name": "★ Shadow Daggers | Damascus Steel",
+        "finish": "Damascus Steel",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_damascus_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 66.34,
+            "MW": 54.21,
+            "FT": 52,
+            "WW": 53.13,
+            "BS": 71.18
+        }
+    },
+    "shadow_daggers_rust_coat": {
+        "name": "★ Shadow Daggers | Rust Coat",
+        "finish": "Rust Coat",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_rust_coat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "WW": 50.06,
+            "BS": 45.63
+        }
+    },
+    "ursus_fade": {
+        "name": "★ Ursus Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/ursus_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 228.09,
+            "MW": 345.95
+        }
+    },
+    "ursus_crimson_web": {
+        "name": "★ Ursus Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/ursus_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 935.66,
+            "MW": 198.26,
+            "FT": 138.09,
+            "WW": 138.35,
+            "BS": 120.16
+        }
+    },
+    "ursus_slaughter": {
+        "name": "★ Ursus Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/ursus_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 194.2,
+            "MW": 178.19,
+            "FT": 170.75
+        }
+    },
+    "ursus_vanilla": {
+        "name": "★ Ursus Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/ursus_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 104.02,
+            "MW": 104.02,
+            "FT": 104.02,
+            "WW": 104.02,
+            "BS": 104.02
+        }
+    },
+    "ursus_case_hardened": {
+        "name": "★ Ursus Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/ursus_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 224.3,
+            "MW": 133.24,
+            "FT": 118.79,
+            "WW": 112.12,
+            "BS": 110.81
+        }
+    },
+    "ursus_boreal_forest": {
+        "name": "★ Ursus Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/ursus_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 113.89,
+            "MW": 67.05,
+            "FT": 61.6,
+            "WW": 59.79,
+            "BS": 60.9
+        }
+    },
+    "ursus_urban_masked": {
+        "name": "★ Ursus Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/ursus_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 185,
+            "MW": 92,
+            "FT": 71.93,
+            "WW": 78.3,
+            "BS": 67.47
+        }
+    },
+    "ursus_safari_mesh": {
+        "name": "★ Ursus Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/ursus_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 128.13,
+            "MW": 61.73,
+            "FT": 57.74,
+            "WW": 58.14,
+            "BS": 57.83
+        }
+    },
+    "ursus_scorched": {
+        "name": "★ Ursus Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/ursus_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 169.13,
+            "MW": 75.09,
+            "FT": 66.48,
+            "WW": 66.48,
+            "BS": 61
+        }
+    },
+    "ursus_blue_steel": {
+        "name": "★ Ursus Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/ursus_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 175.11,
+            "MW": 106.04,
+            "FT": 95.67,
+            "WW": 92.25,
+            "BS": 89.88
+        }
+    },
+    "ursus_night_stripe": {
+        "name": "★ Ursus Knife | Night Stripe",
+        "finish": "Night Stripe",
+        "type": "Knife",
+        "pic": "/Knives/ursus_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 238.2,
+            "MW": 89.44,
+            "FT": 74.09,
+            "WW": 76.13,
+            "BS": 72.87
+        }
+    },
+    "ursus_stained": {
+        "name": "★ Ursus Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/ursus_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 128.13,
+            "MW": 88.8,
+            "FT": 80.98,
+            "WW": 77.95,
+            "BS": 78.95
+        }
+    },
+    "ursus_forest_ddpat": {
+        "name": "★ Ursus Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/ursus_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 126.68,
+            "MW": 70.61,
+            "FT": 63.88,
+            "WW": 67.47,
+            "BS": 63.12
+        }
+    },
+    "navaja_fade": {
+        "name": "★ Navaja Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/navaja_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 104.02,
+            "MW": 131.81
+        }
+    },
+    "navaja_crimson_web": {
+        "name": "★ Navaja Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/navaja_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 409.99,
+            "MW": 84,
+            "FT": 64.61,
+            "WW": 69.45,
+            "BS": 63.84
+        }
+    },
+    "navaja_slaughter": {
+        "name": "★ Navaja Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/navaja_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 97.22,
+            "MW": 87.91,
+            "FT": 89.68
+        }
+    },
+    "navaja_vanilla": {
+        "name": "★ Navaja Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/navaja_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 55.5,
+            "MW": 55.5,
+            "FT": 55.5,
+            "WW": 55.5,
+            "BS": 55.5
+        }
+    },
+    "navaja_case_hardened": {
+        "name": "★ Navaja Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/navaja_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 135.25,
+            "MW": 90.81,
+            "FT": 76.03,
+            "WW": 71.59,
+            "BS": 68.31
+        }
+    },
+    "navaja_boreal_forest": {
+        "name": "★ Navaja Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/navaja_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 95.17,
+            "MW": 50.28,
+            "FT": 46.34,
+            "WW": 49.11,
+            "BS": 49.38
+        }
+    },
+    "navaja_urban_masked": {
+        "name": "★ Navaja Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/navaja_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 190.99,
+            "MW": 57.49,
+            "FT": 53,
+            "WW": 59.46,
+            "BS": 52.84
+        }
+    },
+    "navaja_safari_mesh": {
+        "name": "★ Navaja Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/navaja_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 101.7,
+            "MW": 48.14,
+            "FT": 45.94,
+            "WW": 46.12,
+            "BS": 46.53
+        }
+    },
+    "navaja_scorched": {
+        "name": "★ Navaja Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/navaja_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 142.08,
+            "MW": 50.9,
+            "FT": 46.87,
+            "WW": 49.02,
+            "BS": 49.16
+        }
+    },
+    "navaja_blue_steel": {
+        "name": "★ Navaja Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/navaja_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 113.46,
+            "MW": 59.79,
+            "FT": 54.31,
+            "WW": 52.76,
+            "BS": 52.03
+        }
+    },
+    "navaja_night_stripe": {
+        "name": "★ Navaja Knife | Night Stripe",
+        "finish": "Night Stripe",
+        "type": "Knife",
+        "pic": "/Knives/navaja_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 129.9,
+            "MW": 50.14,
+            "FT": 47.06,
+            "WW": 49.16,
+            "BS": 48.36
+        }
+    },
+    "navaja_stained": {
+        "name": "★ Navaja Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/navaja_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 103.33,
+            "MW": 51.18,
+            "FT": 49.51,
+            "WW": 50.1,
+            "BS": 48.95
+        }
+    },
+    "navaja_forest_ddpat": {
+        "name": "★ Navaja Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/navaja_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 78.23,
+            "MW": 50.19,
+            "FT": 45.78,
+            "WW": 49.02,
+            "BS": 48.04
+        }
+    },
+    "stiletto_fade": {
+        "name": "★ Stiletto Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 467.79,
+            "MW": 477.89
+        }
+    },
+    "stiletto_crimson_web": {
+        "name": "★ Stiletto Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1152.45,
+            "MW": 328.11,
+            "FT": 248.72,
+            "WW": 230.96,
+            "BS": 199
+        }
+    },
+    "stiletto_slaughter": {
+        "name": "★ Stiletto Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 426.99,
+            "MW": 389.52,
+            "FT": 358.01
+        }
+    },
+    "stiletto_vanilla": {
+        "name": "★ Stiletto Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 218.24,
+            "MW": 218.24,
+            "FT": 218.24,
+            "WW": 218.24,
+            "BS": 218.24
+        }
+    },
+    "stiletto_case_hardened": {
+        "name": "★ Stiletto Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 477.12,
+            "MW": 270.43,
+            "FT": 235,
+            "WW": 214.11,
+            "BS": 213.41
+        }
+    },
+    "stiletto_boreal_forest": {
+        "name": "★ Stiletto Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 254.29,
+            "MW": 125.54,
+            "FT": 115,
+            "WW": 115.4,
+            "BS": 118.07
+        }
+    },
+    "stiletto_urban_masked": {
+        "name": "★ Stiletto Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 410.33,
+            "MW": 174.71,
+            "FT": 138.81,
+            "WW": 130.61,
+            "BS": 130
+        }
+    },
+    "stiletto_safari_mesh": {
+        "name": "★ Stiletto Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 249.9,
+            "MW": 120.51,
+            "FT": 114.69,
+            "WW": 117.68,
+            "BS": 117.5
+        }
+    },
+    "stiletto_scorched": {
+        "name": "★ Stiletto Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 294.48,
+            "MW": 149.48,
+            "FT": 128.95,
+            "WW": 133.68,
+            "BS": 131.03
+        }
+    },
+    "stiletto_blue_steel": {
+        "name": "★ Stiletto Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 321.48,
+            "MW": 232.42,
+            "FT": 211.75,
+            "WW": 200.15,
+            "BS": 200.15
+        }
+    },
+    "stiletto_night_stripe": {
+        "name": "★ Stiletto Knife | Night Stripe",
+        "finish": "Night Stripe",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 375,
+            "MW": 159.77,
+            "FT": 138,
+            "WW": 140.66,
+            "BS": 134.19
+        }
+    },
+    "stiletto_stained": {
+        "name": "★ Stiletto Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 213.55,
+            "MW": 185.92,
+            "FT": 173.38,
+            "WW": 171.82,
+            "BS": 161.82
+        }
+    },
+    "stiletto_forest_ddpat": {
+        "name": "★ Stiletto Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/stiletto_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 273.23,
+            "MW": 128.96,
+            "FT": 118.12,
+            "WW": 119.51,
+            "BS": 118.02
+        }
+    },
+    "talon_fade": {
+        "name": "★ Talon Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/talon_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 874.68,
+            "MW": 914.35
+        }
+    },
+    "talon_crimson_web": {
+        "name": "★ Talon Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/talon_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 2139.81,
+            "MW": 520.33,
+            "FT": 349.9,
+            "WW": 340,
+            "BS": 305.33
+        }
+    },
+    "talon_slaughter": {
+        "name": "★ Talon Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/talon_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 669.06,
+            "MW": 521.68,
+            "FT": 485.88
+        }
+    },
+    "talon_vanilla": {
+        "name": "★ Talon Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/talon_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 337.26,
+            "MW": 337.26,
+            "FT": 337.26,
+            "WW": 337.26,
+            "BS": 337.26
+        }
+    },
+    "talon_case_hardened": {
+        "name": "★ Talon Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/talon_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 855.71,
+            "MW": 474.11,
+            "FT": 382.99,
+            "WW": 363.4,
+            "BS": 344.74
+        }
+    },
+    "talon_boreal_forest": {
+        "name": "★ Talon Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/talon_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 444.5,
+            "MW": 216.41,
+            "FT": 196.93,
+            "WW": 196.41,
+            "BS": 192.03
+        }
+    },
+    "talon_urban_masked": {
+        "name": "★ Talon Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/talon_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 599,
+            "MW": 258.97,
+            "FT": 212.27,
+            "WW": 210.67,
+            "BS": 203
+        }
+    },
+    "talon_safari_mesh": {
+        "name": "★ Talon Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/talon_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 363.77,
+            "MW": 200.04,
+            "FT": 190.42,
+            "WW": 196.08,
+            "BS": 192.18
+        }
+    },
+    "talon_scorched": {
+        "name": "★ Talon Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/talon_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 363.17,
+            "MW": 230,
+            "FT": 206.14,
+            "WW": 200.43,
+            "BS": 192.86
+        }
+    },
+    "talon_blue_steel": {
+        "name": "★ Talon Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/talon_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 583.71,
+            "MW": 411.21,
+            "FT": 362.18,
+            "WW": 353.82,
+            "BS": 352.29
+        }
+    },
+    "talon_night_stripe": {
+        "name": "★ Talon Knife | Night Stripe",
+        "finish": "Night Stripe",
+        "type": "Knife",
+        "pic": "/Knives/talon_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 569.33,
+            "MW": 275,
+            "FT": 231.34,
+            "WW": 228,
+            "BS": 216.64
+        }
+    },
+    "talon_stained": {
+        "name": "★ Talon Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/talon_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 380,
+            "MW": 301.6,
+            "FT": 282.81,
+            "WW": 265.77,
+            "BS": 262.41
+        }
+    },
+    "talon_forest_ddpat": {
+        "name": "★ Talon Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/talon_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 498.22,
+            "MW": 226.93,
+            "FT": 202.98,
+            "WW": 205.28,
+            "BS": 190
+        }
+    },
+    "classic_fade": {
+        "name": "★ Classic Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/classic_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 304.99,
+            "MW": 305.61
+        }
+    },
+    "classic_slaughter": {
+        "name": "★ Classic Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/classic_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 209.91,
+            "MW": 183.74,
+            "FT": 188.92
+        }
+    },
+    "classic_crimson_web": {
+        "name": "★ Classic Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/classic_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 900.99,
+            "MW": 188,
+            "FT": 154.07,
+            "WW": 229.9,
+            "BS": 147.15
+        }
+    },
+    "classic_case_hardened": {
+        "name": "★ Classic Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/classic_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 300.77,
+            "MW": 165.12,
+            "FT": 122.31,
+            "WW": 125.15,
+            "BS": 117.41
+        }
+    },
+    "classic_urban_masked": {
+        "name": "★ Classic Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/classic_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 268.79,
+            "MW": 91.5,
+            "FT": 79.34,
+            "WW": 83,
+            "BS": 75.79
+        }
+    },
+    "classic_boreal_forest": {
+        "name": "★ Classic Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/classic_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 283.79,
+            "MW": 82,
+            "FT": 67.68,
+            "WW": 72.54,
+            "BS": 67.77
+        }
+    },
+    "classic_vanilla": {
+        "name": "★ Classic Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/classic_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 201.6,
+            "MW": 201.6,
+            "FT": 201.6,
+            "WW": 201.6,
+            "BS": 201.6
+        }
+    },
+    "classic_night_stripe": {
+        "name": "★ Classic Knife | Night Stripe",
+        "finish": "Night Stripe",
+        "type": "Knife",
+        "pic": "/Knives/classic_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 454.86,
+            "MW": 98.94,
+            "FT": 93.04,
+            "WW": 115.11,
+            "BS": 93.65
+        }
+    },
+    "classic_blue_steel": {
+        "name": "★ Classic Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/classic_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 198,
+            "MW": 126.02,
+            "FT": 116.47,
+            "WW": 109.46,
+            "BS": 106.15
+        }
+    },
+    "classic_forest_ddpat": {
+        "name": "★ Classic Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/classic_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 188.81,
+            "MW": 77,
+            "FT": 68.41,
+            "WW": 69.48,
+            "BS": 68.01
+        }
+    },
+    "classic_safari_mesh": {
+        "name": "★ Classic Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/classic_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 152,
+            "MW": 72.28,
+            "FT": 67.09,
+            "WW": 68.69,
+            "BS": 67.55
+        }
+    },
+    "classic_stained": {
+        "name": "★ Classic Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/classic_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 178,
+            "MW": 102.48,
+            "FT": 94.07,
+            "WW": 90.24,
+            "BS": 87.83
+        }
+    },
+    "classic_scorched": {
+        "name": "★ Classic Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/classic_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 262.2,
+            "MW": 82.93,
+            "FT": 81.88,
+            "WW": 85.46,
+            "BS": 75.98
+        }
+    },
+    "bowie_fade": {
+        "name": "★ Bowie Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/bowie_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 226.01,
+            "MW": 238.23
+        }
+    },
+    "bowie_slaughter": {
+        "name": "★ Bowie Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/bowie_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 220.9,
+            "MW": 185.99,
+            "FT": 182.36
+        }
+    },
+    "bowie_crimson_web": {
+        "name": "★ Bowie Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/bowie_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 994.99,
+            "MW": 230,
+            "FT": 112.34,
+            "WW": 122.34,
+            "BS": 220
+        }
+    },
+    "bowie_case_hardened": {
+        "name": "★ Bowie Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/bowie_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 463.99,
+            "MW": 196.49,
+            "FT": 147.96,
+            "WW": 145.41,
+            "BS": 145.41
+        }
+    },
+    "bowie_urban_masked": {
+        "name": "★ Bowie Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/bowie_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 224.94,
+            "MW": 72.18,
+            "FT": 60.03,
+            "WW": 71.37,
+            "BS": 85.94
+        }
+    },
+    "bowie_boreal_forest": {
+        "name": "★ Bowie Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/bowie_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 180,
+            "MW": 75.39,
+            "FT": 56.38,
+            "WW": 65.98,
+            "BS": 69.91
+        }
+    },
+    "bowie_vanilla": {
+        "name": "★ Bowie Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/bowie_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 107.45,
+            "MW": 107.45,
+            "FT": 107.45,
+            "WW": 107.45,
+            "BS": 107.45
+        }
+    },
+    "bowie_night": {
+        "name": "★ Bowie Knife | Night",
+        "finish": "Night",
+        "type": "Knife",
+        "pic": "/Knives/bowie_night.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 533.47,
+            "MW": 100.52,
+            "FT": 68.59,
+            "WW": 79.95,
+            "BS": 76.97
+        }
+    },
+    "bowie_blue_steel": {
+        "name": "★ Bowie Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/bowie_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 225.86,
+            "MW": 131.38,
+            "FT": 104.79,
+            "WW": 104.11,
+            "BS": 101.71
+        }
+    },
+    "bowie_forest_ddpat": {
+        "name": "★ Bowie Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/bowie_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 163.63,
+            "MW": 66.62,
+            "FT": 55.56,
+            "WW": 67.12,
+            "BS": 60.71
+        }
+    },
+    "bowie_safari_mesh": {
+        "name": "★ Bowie Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/bowie_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 69.35,
+            "MW": 63.34,
+            "FT": 54.96,
+            "WW": 55.81,
+            "BS": 57.72
+        }
+    },
+    "bowie_stained": {
+        "name": "★ Bowie Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/bowie_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 145.73,
+            "MW": 88.49,
+            "FT": 79.06,
+            "WW": 75.87,
+            "BS": 76.68
+        }
+    },
+    "bowie_scorched": {
+        "name": "★ Bowie Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/bowie_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 174.75,
+            "MW": 75.34,
+            "FT": 55.39,
+            "WW": 65.12,
+            "BS": 62.61
+        }
+    },
+    "shadow_daggers_fade": {
+        "name": "★ Shadow Daggers | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 141.24,
+            "MW": 170
+        }
+    },
+    "shadow_daggers_slaughter": {
+        "name": "★ Shadow Daggers | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 112.91,
+            "MW": 105.72,
+            "FT": 106.12
+        }
+    },
+    "shadow_daggers_crimson_web": {
+        "name": "★ Shadow Daggers | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 409.72,
+            "MW": 94.81,
+            "FT": 72.3,
+            "WW": 72.77,
+            "BS": 69
+        }
+    },
+    "shadow_daggers_case_hardened": {
+        "name": "★ Shadow Daggers | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 232.44,
+            "MW": 101.24,
+            "FT": 90.17,
+            "WW": 87.33,
+            "BS": 92.57
+        }
+    },
+    "shadow_daggers_urban_masked": {
+        "name": "★ Shadow Daggers | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 195.5,
+            "MW": 66.63,
+            "FT": 52.33,
+            "WW": 56.73,
+            "BS": 53.35
+        }
+    },
+    "shadow_daggers_boreal_forest": {
+        "name": "★ Shadow Daggers | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 110.99,
+            "MW": 54.84,
+            "FT": 48.4,
+            "WW": 50.59,
+            "BS": 50.82
+        }
+    },
+    "shadow_daggers_vanilla": {
+        "name": "★ Shadow Daggers | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 77.27,
+            "MW": 77.27,
+            "FT": 77.27,
+            "WW": 77.27,
+            "BS": 77.27
+        }
+    },
+    "shadow_daggers_night_stripe": {
+        "name": "★ Shadow Daggers | Night",
+        "finish": "Night",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 590,
+            "MW": 62.23,
+            "FT": 50.38,
+            "WW": 56.95,
+            "BS": 53.28
+        }
+    },
+    "shadow_daggers_blue_steel": {
+        "name": "★ Shadow Daggers | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 126.85,
+            "MW": 71.44,
+            "FT": 63.93,
+            "WW": 70.2,
+            "BS": 65.14
+        }
+    },
+    "shadow_daggers_forest_ddpat": {
+        "name": "★ Shadow Daggers | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 90,
+            "MW": 55.85,
+            "FT": 49.71,
+            "WW": 52.85,
+            "BS": 50
+        }
+    },
+    "shadow_daggers_safari_mesh": {
+        "name": "★ Shadow Daggers | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 148.96,
+            "MW": 60.36,
+            "FT": 52.67,
+            "WW": 54.94,
+            "BS": 61.3
+        }
+    },
+    "shadow_daggers_stained": {
+        "name": "★ Shadow Daggers | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 130.94,
+            "MW": 58.87,
+            "FT": 55.02,
+            "WW": 54.96,
+            "BS": 53.17
+        }
+    },
+    "shadow_daggers_scorched": {
+        "name": "★ Shadow Daggers | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/shadow_daggers_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 159,
+            "MW": 66.89,
+            "FT": 51.11,
+            "WW": 59.95,
+            "BS": 53.7
+        }
+    },
+    "falchion_fade": {
+        "name": "★ Falchion Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/falchion_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 229.77,
+            "MW": 288
+        }
+    },
+    "falchion_slaughter": {
+        "name": "★ Falchion Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/falchion_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 231.74,
+            "MW": 202.47,
+            "FT": 202.98
+        }
+    },
+    "falchion_crimson_web": {
+        "name": "★ Falchion Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/falchion_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 1059.9,
+            "MW": 193.99,
+            "FT": 117.12,
+            "WW": 120,
+            "BS": 114.32
+        }
+    },
+    "falchion_case_hardened": {
+        "name": "★ Falchion Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/falchion_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 322.94,
+            "MW": 176.7,
+            "FT": 157.4,
+            "WW": 140.69,
+            "BS": 134.57
+        }
+    },
+    "falchion_urban_masked": {
+        "name": "★ Falchion Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/falchion_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 188.49,
+            "MW": 92.67,
+            "FT": 72.39,
+            "WW": 89.34,
+            "BS": 71.54
+        }
+    },
+    "falchion_boreal_forest": {
+        "name": "★ Falchion Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/falchion_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 194.13,
+            "MW": 71.33,
+            "FT": 64.48,
+            "WW": 76.62,
+            "BS": 66
+        }
+    },
+    "falchion_vanilla": {
+        "name": "★ Falchion Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/falchion_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 109.25,
+            "MW": 109.25,
+            "FT": 109.25,
+            "WW": 109.25,
+            "BS": 109.25
+        }
+    },
+    "falchion_night_stripe": {
+        "name": "★ Falchion Knife | Night",
+        "finish": "Night",
+        "type": "Knife",
+        "pic": "/Knives/falchion_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 232.95,
+            "MW": 105.92,
+            "FT": 73.2,
+            "WW": 80.99,
+            "BS": 72.01
+        }
+    },
+    "falchion_blue_steel": {
+        "name": "★ Falchion Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/falchion_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 235.52,
+            "MW": 162,
+            "FT": 137.43,
+            "WW": 120.76,
+            "BS": 114.41
+        }
+    },
+    "falchion_forest_ddpat": {
+        "name": "★ Falchion Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/falchion_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 219.88,
+            "MW": 72.58,
+            "FT": 64.06,
+            "WW": 67.04,
+            "BS": 63.34
+        }
+    },
+    "falchion_safari_mesh": {
+        "name": "★ Falchion Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/falchion_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 138.63,
+            "MW": 69.17,
+            "FT": 59.47,
+            "WW": 65.54,
+            "BS": 61.53
+        }
+    },
+    "falchion_stained": {
+        "name": "★ Falchion Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/falchion_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 159.67,
+            "MW": 94.72,
+            "FT": 82.73,
+            "WW": 76.87,
+            "BS": 78.08
+        }
+    },
+    "falchion_scorched": {
+        "name": "★ Falchion Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/falchion_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 142.36,
+            "MW": 77.79,
+            "FT": 63.55,
+            "WW": 64.67,
+            "BS": 68.28
+        }
+    },
+    "huntsman_fade": {
+        "name": "★ Huntsman Knife | Fade",
+        "finish": "Fade",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_fade.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 257.56,
+            "MW": 372.03
+        }
+    },
+    "huntsman_slaughter": {
+        "name": "★ Huntsman Knife | Slaughter",
+        "finish": "Slaughter",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_slaughter.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 282,
+            "MW": 215,
+            "FT": 203.42
+        }
+    },
+    "huntsman_crimson_web": {
+        "name": "★ Huntsman Knife | Crimson Web",
+        "finish": "Crimson Web",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_crimson_web.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 776.61,
+            "MW": 238.86,
+            "FT": 113.17,
+            "WW": 109.69,
+            "BS": 102.82
+        }
+    },
+    "huntsman_case_hardened": {
+        "name": "★ Huntsman Knife | Case Hardened",
+        "finish": "Case Hardened",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_case_hardened.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 268.79,
+            "MW": 212.18,
+            "FT": 177,
+            "WW": 172.75,
+            "BS": 162.38
+        }
+    },
+    "huntsman_urban_masked": {
+        "name": "★ Huntsman Knife | Urban Masked",
+        "finish": "Urban Masked",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_urban_masked.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 328.11,
+            "MW": 83.61,
+            "FT": 65.91,
+            "WW": 65.84,
+            "BS": 74.48
+        }
+    },
+    "huntsman_boreal_forest": {
+        "name": "★ Huntsman Knife | Boreal Forest",
+        "finish": "Boreal Forest",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_boreal_forest.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 277.62,
+            "MW": 81.54,
+            "FT": 61.98,
+            "WW": 64.59,
+            "BS": 64.12
+        }
+    },
+    "huntsman_vanilla": {
+        "name": "★ Huntsman Knife | Vanilla",
+        "finish": "Vanilla",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_vanilla.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 138.99,
+            "MW": 138.99,
+            "FT": 138.99,
+            "WW": 138.99,
+            "BS": 138.99
+        }
+    },
+    "huntsman_night_stripe": {
+        "name": "★ Huntsman Knife | Night",
+        "finish": "Night",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_night_stripe.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 859.35,
+            "MW": 128.34,
+            "FT": 78.94,
+            "WW": 89.86,
+            "BS": 80.5
+        }
+    },
+    "huntsman_blue_steel": {
+        "name": "★ Huntsman Knife | Blue Steel",
+        "finish": "Blue Steel",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_blue_steel.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 260.7,
+            "MW": 140.52,
+            "FT": 116.26,
+            "WW": 123.16,
+            "BS": 114.39
+        }
+    },
+    "huntsman_forest_ddpat": {
+        "name": "★ Huntsman Knife | Forest DDPAT",
+        "finish": "Forest DDPAT",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_forest_ddpat.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 295,
+            "MW": 79.41,
+            "FT": 61.91,
+            "WW": 61,
+            "BS": 66.91
+        }
+    },
+    "huntsman_safari_mesh": {
+        "name": "★ Huntsman Knife | Safari Mesh",
+        "finish": "Safari Mesh",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_safari_mesh.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 213.98,
+            "MW": 71.18,
+            "FT": 58.37,
+            "WW": 66.12,
+            "BS": 63.86
+        }
+    },
+    "huntsman_stained": {
+        "name": "★ Huntsman Knife | Stained",
+        "finish": "Stained",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_stained.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 204.59,
+            "MW": 98.07,
+            "FT": 90.02,
+            "WW": 89.93,
+            "BS": 89.55
+        }
+    },
+    "huntsman_scorched": {
+        "name": "★ Huntsman Knife | Scorched",
+        "finish": "Scorched",
+        "type": "Knife",
+        "pic": "/Knives/huntsman_scorched.webp",
+        "rarity": "Rare Special Item",
+        "floats": {
+            "FN": 340,
+            "MW": 100,
+            "FT": 66.13,
+            "WW": 75.75,
+            "BS": 72.97
+        }
+    }
+}

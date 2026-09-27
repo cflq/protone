@@ -1,0 +1,81 @@
+/*
+#00377E Light Blue
+#002D67
+#002657 Mid Blue
+#001E45
+#00193B Dark Blue
+#00132D
+#19bc00 Green
+#087400 Dark Green
+#065200
+#ff2b2b Light Red
+#b90000 Red
+#800000 Dark Red
+
+rgba(255, 255, 255, 0.3) grey border
+*/
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    background-color: #00193B;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-bottom: solid 2px #0076eb;
+    padding: 20px 40px 20px 20px;
+    box-shadow: 0px -5px 30px #0076eb;
+}
+
+.navlists {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    list-style: none;
+    margin-left: auto;
+}
+
+.navlist {
+    user-select: none;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.navlist:hover {
+    color: #3e9fff;
+    text-shadow: 0px 5px 10px #0076eb;
+}
+
+.navlist:active {
+    color: #005bb6;
+}
+
+.logo {
+    display: flex;
+}
+
+.logo-img {
+    max-width: 170px;
+}
+
+.balance {
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.balance-logo {
+    margin-top: 3px;
+}
+
+@media screen and (max-width:660px) {
+    .logo-img{
+        display:none;
+    }
+}

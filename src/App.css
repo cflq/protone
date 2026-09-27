@@ -1,0 +1,42 @@
+/*
+#00377E Light Blue
+#002D67
+#002657 Mid Blue
+#001E45
+#00193B Dark Blue
+#00132D
+#19bc00 Green
+#087400 Dark Green
+#065200
+#ff2b2b Light Red
+#b90000 Red
+#800000 Dark Red
+*/
+
+/* CARDS */
+.cardsContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.slowani{
+    transition: all 0.5s ease-in-out;
+}
+
+html, body, #root {
+  width: 100%;
+}
+
+.page-name{
+    margin-top: 125px;
+    user-select: none;
+    display: flex;
+    margin-left: 64px;
+    font-size: xx-large;
+    margin-bottom: 0;
+    gap:10px;
+    align-items: center;
+}
